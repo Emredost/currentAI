@@ -8,6 +8,8 @@ This directory contains documentation for the Smart Meters in London Data Scienc
 - **app_usage_guide.md**: Guide to using the Streamlit web application
 - **developer_guide.md**: Guide for developers contributing to the project
 - **api_reference.md**: API reference for key modules and classes
+- **data_dictionary.md**: Comprehensive description of all datasets and their fields
+- **model_architecture.md**: Detailed explanation of model architectures and training procedures
 
 ## Documentation Structure
 
@@ -35,6 +37,22 @@ The `api_reference.md` file documents the key components of the codebase:
 - Class and function documentation
 - Module organization
 - Usage examples
+
+### 4. Data Reference
+
+The `data_dictionary.md` file provides detailed information about the data:
+- Raw and processed dataset descriptions
+- Field definitions and data types
+- Data relationships
+- Data quality notes
+
+### 5. Model Reference
+
+The `model_architecture.md` file details the machine learning models:
+- Model architectures and components
+- Input features and preprocessing
+- Hyperparameters and training procedures
+- Evaluation metrics and performance
 
 ## Additional Resources
 

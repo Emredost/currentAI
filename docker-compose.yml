@@ -1,0 +1,44 @@
+version: '3'
+
+services:
+  smartmeter-app:
+    build: 
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./data:/app/data
+      - ./models:/app/models
+    environment:
+      - PYTHONPATH=/app
+    command: streamlit run app.py --server.enableCORS=false --server.enableXsrfProtection=false
+    restart: unless-stopped
+
+  # Optional: Add a standalone data processing service that can be run on-demand
+  data-processor:
+    build: 
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ./data:/app/data
+      - ./models:/app/models
+    environment:
+      - PYTHONPATH=/app
+    command: python run.py --process
+    profiles:
+      - data-processing
+
+  # Optional: Add a standalone model training service that can be run on-demand
+  model-trainer:
+    build: 
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ./data:/app/data
+      - ./models:/app/models
+    environment:
+      - PYTHONPATH=/app
+    command: python run.py --train
+    profiles:
+      - model-training 

@@ -18,7 +18,7 @@ This project analyzes household electricity consumption in London using smart me
 
 ```
 .
-├── app.py                      # Streamlit web application
+├── app.py                      # Streamlit web application (main dashboard)
 ├── run.py                      # Main startup script
 ├── run.sh                      # Shell script wrapper
 ├── dvc.yaml                    # DVC pipeline configuration
@@ -27,6 +27,7 @@ This project analyzes household electricity consumption in London using smart me
 │   └── raw/                    # Original raw data
 ├── models/                     # Trained forecasting models
 ├── notebooks/                  # Jupyter notebooks for exploration
+│   └── visualizations/         # Visualization outputs
 ├── src/                        # Source code
 │   ├── data/                   # Data loading and preprocessing
 │   ├── models/                 # Model training and evaluation

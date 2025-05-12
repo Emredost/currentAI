@@ -1,0 +1,380 @@
+MainCategories,SubCategories,Reference,AcornA,AcornB,AcornC,AcornD,AcornE,AcornF,AcornG,AcornH,AcornI,AcornJ,AcornK,AcornL,AcornM,AcornN,AcornO,AcornP,AcornQ
+Population,Age,Age 35-49,102.0,105.0,91.0,124.0,118.0,93.0,102.0,103.0,76.0,111.0,67.0,99.0,98.0,90.0,102.0,103.0,100.0
+Population,Age,Age 50-64,124.0,121.0,120.0,72.0,82.0,126.0,109.0,107.0,112.0,90.0,41.0,95.0,96.0,103.0,89.0,78.0,89.0
+Population,Geography,England,107.0,101.0,103.0,114.0,106.0,75.0,107.0,106.0,102.0,106.0,95.0,93.0,97.0,89.0,97.0,110.0,97.0
+Population,Ethnicity,White,98.0,106.0,110.0,83.0,93.0,114.0,94.0,102.0,113.0,103.0,81.0,92.0,106.0,111.0,100.0,80.0,98.0
+Population,Country Of Birth,Uk / Roi,95.0,105.0,107.0,75.0,91.0,110.0,98.0,103.0,109.0,100.0,79.0,98.0,105.0,109.0,98.0,88.0,99.0
+Population,Religion,Christian,104.0,109.0,115.0,80.0,91.0,113.0,97.0,107.0,118.0,98.0,74.0,89.0,102.0,103.0,95.0,87.0,93.0
+Population,Religion,Other Religion,86.0,92.0,89.0,123.0,107.0,99.0,87.0,90.0,86.0,111.0,125.0,92.0,108.0,110.0,110.0,101.0,116.0
+Family,Structure,Couple Family With Dependent Children,146.0,140.0,101.0,70.0,106.0,108.0,115.0,116.0,61.0,104.0,52.0,104.0,98.0,61.0,75.0,85.0,65.0
+Family,Children In Household,Children At Home : 0,106.0,101.0,111.0,108.0,97.0,109.0,101.0,98.0,122.0,100.0,117.0,98.0,93.0,114.0,100.0,81.0,97.0
+Family,Children In Household,Children At Home : 1,84.0,88.0,76.0,90.0,120.0,79.0,98.0,101.0,62.0,107.0,78.0,108.0,105.0,76.0,116.0,122.0,113.0
+Family,Household Size,Household Size : 2 Persons,107.0,107.0,123.0,102.0,99.0,127.0,108.0,102.0,126.0,110.0,80.0,99.0,94.0,99.0,101.0,75.0,88.0
+Family,Household Size,Household Size : 3-4 Persons,114.0,119.0,92.0,107.0,109.0,91.0,106.0,116.0,64.0,105.0,93.0,98.0,108.0,63.0,88.0,119.0,85.0
+Economy,Economic Activity,Employee Full-Time,93.0,107.0,96.0,128.0,128.0,91.0,107.0,110.0,82.0,124.0,78.0,100.0,97.0,74.0,106.0,81.0,76.0
+Economy,Economic Activity,Employee Part-Time,87.0,103.0,103.0,58.0,85.0,105.0,105.0,113.0,94.0,101.0,51.0,109.0,113.0,93.0,99.0,103.0,100.0
+Economy,Social Grade,C1,87.0,105.0,116.0,117.0,119.0,109.0,115.0,116.0,113.0,123.0,158.0,101.0,86.0,70.0,101.0,82.0,68.0
+Education,Highest Level Of Qualifications (Adults),A-Levels/ As Levels Or Highers,89.0,105.0,102.0,53.0,95.0,107.0,105.0,112.0,93.0,105.0,78.0,104.0,105.0,90.0,104.0,96.0,95.0
+Education,England: Pupils At The End Of Ks1,Achieving Expected Level In Reading,109.0,107.0,107.0,106.0,103.0,104.0,102.0,102.0,105.0,100.0,98.0,96.0,96.0,96.0,92.0,93.0,92.0
+Education,England: Pupils At The End Of Ks1,Achieving Expected Level In Writing,114.0,109.0,109.0,108.0,102.0,104.0,102.0,101.0,104.0,99.0,98.0,95.0,95.0,95.0,91.0,93.0,91.0
+Education,England: Pupils At The End Of Ks1,Achieving Expected Level In Maths,106.0,105.0,105.0,104.0,103.0,104.0,102.0,102.0,104.0,101.0,99.0,97.0,97.0,98.0,94.0,94.0,93.0
+Education,England: Pupils At The End Of Ks1,Achieving Expected Level In Science,108.0,107.0,107.0,105.0,103.0,106.0,102.0,102.0,105.0,101.0,98.0,95.0,96.0,97.0,92.0,92.0,91.0
+Education,England: Pupils At The End Of Ks2,Achieving Expected Level In Reading,110.0,108.0,108.0,109.0,104.0,103.0,102.0,102.0,105.0,101.0,101.0,96.0,94.0,96.0,93.0,92.0,91.0
+Education,England: Pupils At The End Of Ks2,Achieving Expected Level In Writing,115.0,109.0,108.0,112.0,103.0,101.0,102.0,101.0,104.0,99.0,100.0,96.0,94.0,94.0,92.0,94.0,91.0
+Education,England: Pupils At The End Of Ks2,Achieving Expected Level In Maths,114.0,109.0,108.0,112.0,104.0,100.0,102.0,100.0,103.0,99.0,102.0,96.0,94.0,94.0,93.0,94.0,92.0
+Education,England: Pupils At The End Of Ks2,"Achieving Expected Level In Reading, Writing And Maths",121.0,110.0,107.0,116.0,104.0,99.0,101.0,100.0,101.0,99.0,101.0,95.0,94.0,93.0,92.0,94.0,91.0
+Education,England: Pupils At The End Of Ks4,Achieving 5+ A*-C At Gcse Or Equivalent,137.0,119.0,112.0,119.0,108.0,104.0,105.0,102.0,101.0,98.0,99.0,93.0,88.0,87.0,85.0,87.0,81.0
+Education,England: Pupils At The End Of Ks4,Achieving 5+ A*-C (Including English And Maths) At Gcse Or Equivalent,137.0,120.0,114.0,117.0,109.0,105.0,106.0,103.0,102.0,98.0,100.0,91.0,87.0,86.0,84.0,85.0,80.0
+Health,Behaviours & Lifestyle,Takes Regular Exercise,140.0,120.0,114.0,125.0,113.0,101.0,106.0,100.0,90.0,110.0,111.0,90.0,88.0,83.0,94.0,88.0,83.0
+Health,Behaviours & Lifestyle,"I Like To Pursue A Life Of Challenge, Novelty And Change",139.0,100.0,96.0,134.0,127.0,88.0,97.0,95.0,74.0,109.0,154.0,97.0,89.0,83.0,110.0,103.0,92.0
+Health,Behaviours & Lifestyle,I Am Perfectly Happy With My Standard Of Living,125.0,124.0,119.0,100.0,100.0,112.0,106.0,105.0,116.0,100.0,93.0,94.0,93.0,92.0,82.0,80.0,80.0
+Health,Behaviours & Lifestyle,I Worry A Lot About Myself,91.0,91.0,91.0,112.0,112.0,84.0,93.0,96.0,84.0,110.0,136.0,103.0,98.0,98.0,113.0,105.0,106.0
+Transport,Travel To Work,"Car, Van Or Motorbike (Driver Or Passenger)",89.0,112.0,114.0,32.0,88.0,120.0,112.0,111.0,111.0,102.0,54.0,106.0,108.0,101.0,92.0,74.0,87.0
+Marketing Channels,Channels Received,Leaflets - Door Or Newspaper,102.0,103.0,102.0,96.0,98.0,100.0,102.0,101.0,101.0,102.0,100.0,102.0,99.0,99.0,99.0,95.0,97.0
+Marketing Channels,Channels Received,Mail - Addressed To 'The Householder' Or 'The Occupier',118.0,117.0,117.0,96.0,94.0,110.0,103.0,104.0,109.0,110.0,91.0,91.0,96.0,96.0,93.0,81.0,84.0
+Marketing Channels,Channels Received,Mail - Addressed To You By Name,128.0,124.0,124.0,97.0,97.0,112.0,106.0,104.0,115.0,109.0,81.0,91.0,93.0,92.0,89.0,76.0,75.0
+Marketing Channels,Channels Received,Newspaper / Magazine Adverts,132.0,128.0,128.0,116.0,109.0,117.0,108.0,105.0,113.0,108.0,87.0,86.0,87.0,89.0,77.0,73.0,71.0
+Marketing Channels,Channels Received,Tv/Radio,109.0,106.0,107.0,96.0,99.0,108.0,104.0,105.0,105.0,105.0,97.0,92.0,98.0,103.0,94.0,91.0,93.0
+Marketing Channels,Channels Received,Leaflets/Samples Handed Out In The Street Or Picked Up In Shop,112.0,112.0,112.0,105.0,101.0,97.0,102.0,102.0,102.0,119.0,125.0,92.0,95.0,85.0,99.0,87.0,80.0
+Marketing Channels,Channels Received,Posters,119.0,121.0,119.0,123.0,107.0,104.0,106.0,106.0,104.0,120.0,111.0,84.0,86.0,87.0,93.0,80.0,69.0
+Marketing Channels,Channels Received,Email,124.0,126.0,120.0,121.0,118.0,108.0,108.0,108.0,101.0,120.0,108.0,83.0,83.0,78.0,87.0,74.0,73.0
+Marketing Channels,Channels Received,Internet Advertising,124.0,121.0,116.0,128.0,120.0,107.0,105.0,105.0,91.0,117.0,123.0,90.0,86.0,78.0,86.0,79.0,68.0
+Marketing Channels,Channels Received,Messages On Mobile Phone,101.0,107.0,97.0,103.0,102.0,99.0,101.0,103.0,97.0,112.0,101.0,96.0,96.0,91.0,103.0,100.0,95.0
+Marketing Channels,Channels Received,Telemarketing,117.0,118.0,117.0,87.0,90.0,124.0,104.0,108.0,121.0,107.0,67.0,92.0,94.0,102.0,86.0,80.0,84.0
+Marketing Channels,Channels Received,Cinema Advertising,143.0,135.0,131.0,137.0,112.0,100.0,102.0,102.0,91.0,125.0,128.0,81.0,82.0,72.0,88.0,72.0,60.0
+Marketing Channels,Future Responses,Leaflets - Door Or Newspaper,69.0,95.0,96.0,104.0,102.0,87.0,94.0,94.0,90.0,96.0,108.0,113.0,100.0,103.0,105.0,106.0,105.0
+Marketing Channels,Future Responses,Mail - Addressed To 'The Householder' Or 'The Occupier',96.0,102.0,107.0,109.0,100.0,100.0,100.0,100.0,134.0,100.0,101.0,95.0,100.0,89.0,99.0,99.0,88.0
+Marketing Channels,Future Responses,Mail - Addressed To You By Name,145.0,134.0,134.0,153.0,105.0,121.0,110.0,105.0,110.0,110.0,80.0,78.0,80.0,80.0,88.0,64.0,65.0
+Marketing Channels,Future Responses,Newspaper / Magazine Adverts,126.0,122.0,122.0,127.0,127.0,101.0,108.0,98.0,101.0,101.0,104.0,104.0,77.0,83.0,77.0,82.0,67.0
+Marketing Channels,Future Responses,Tv/Radio,94.0,94.0,92.0,110.0,114.0,89.0,102.0,100.0,90.0,106.0,112.0,113.0,91.0,92.0,91.0,103.0,109.0
+Marketing Channels,Future Responses,Leaflets/Samples Handed Out In The Street Or Picked Up In Shop,101.0,101.0,104.0,113.0,113.0,101.0,101.0,101.0,101.0,110.0,117.0,100.0,98.0,84.0,105.0,81.0,91.0
+Marketing Channels,Future Responses,Posters,104.0,111.0,104.0,168.0,145.0,97.0,111.0,98.0,90.0,98.0,154.0,81.0,76.0,54.0,97.0,93.0,96.0
+Marketing Channels,Future Responses,Email From Companies You Don'T Know,87.0,87.0,87.0,106.0,104.0,83.0,109.0,100.0,100.0,127.0,144.0,86.0,95.0,91.0,120.0,110.0,110.0
+Marketing Channels,Future Responses,Messages On Mobile Phone,105.0,105.0,105.0,130.0,126.0,102.0,105.0,102.0,97.0,102.0,90.0,77.0,90.0,90.0,102.0,102.0,102.0
+Marketing Channels,Future Responses,Cinema Advertising,112.0,112.0,122.0,130.0,118.0,96.0,99.0,96.0,99.0,112.0,155.0,91.0,85.0,57.0,93.0,87.0,93.0
+Marketing Channels,Future Responses,Offers/Promotions On Product Packaging,98.0,104.0,106.0,144.0,144.0,103.0,104.0,102.0,103.0,119.0,117.0,88.0,88.0,67.0,91.0,72.0,110.0
+Finance,Financial Attitudes,I Don'T Like The Idea Of Being In Debt,105.0,105.0,105.0,95.0,100.0,104.0,102.0,102.0,103.0,101.0,97.0,99.0,99.0,98.0,96.0,94.0,93.0
+Finance,Financial Attitudes,I Am Very Good At Managing Money,115.0,119.0,112.0,101.0,102.0,105.0,104.0,103.0,113.0,101.0,89.0,96.0,94.0,92.0,92.0,87.0,82.0
+Finance,Financial Attitudes,It Is Important To Be Well Insured For Everything,114.0,115.0,114.0,93.0,97.0,108.0,109.0,108.0,113.0,103.0,84.0,96.0,96.0,95.0,92.0,80.0,82.0
+Finance,Financial Attitudes,Financial Security After Retirement Is Your Own Responsibility,124.0,119.0,117.0,104.0,104.0,110.0,109.0,108.0,117.0,100.0,84.0,95.0,89.0,90.0,89.0,79.0,82.0
+Finance,Financial Attitudes,Uses Contactless Payments On Debit Card,109.0,121.0,99.0,202.0,149.0,85.0,114.0,102.0,78.0,119.0,128.0,93.0,79.0,58.0,93.0,110.0,70.0
+Finance,Financial Situation,Saving,124.0,123.0,115.0,116.0,110.0,111.0,110.0,108.0,109.0,109.0,101.0,98.0,90.0,85.0,93.0,86.0,79.0
+Finance,Financial Situation,Saving A Little,113.0,115.0,113.0,106.0,106.0,112.0,108.0,107.0,109.0,108.0,97.0,99.0,94.0,91.0,92.0,88.0,83.0
+Finance,Financial Situation,Drawing On Savings Or Running Into Debt,108.0,108.0,108.0,118.0,110.0,107.0,99.0,96.0,96.0,99.0,145.0,93.0,93.0,85.0,109.0,93.0,96.0
+Finance,Credit Cards,Has Credit Card,148.0,147.0,138.0,136.0,124.0,126.0,123.0,116.0,116.0,118.0,84.0,93.0,78.0,64.0,84.0,73.0,57.0
+Finance,Credit Cards,Usually Makes Minimum Payment On Card,98.0,101.0,95.0,166.0,148.0,105.0,105.0,105.0,78.0,124.0,115.0,103.0,87.0,66.0,118.0,87.0,78.0
+Finance,Savings And Investments,Has Savings Account,125.0,126.0,125.0,116.0,112.0,123.0,115.0,113.0,115.0,112.0,95.0,96.0,89.0,83.0,91.0,76.0,70.0
+Finance,Savings And Investments,Has Instant Access Account,131.0,131.0,126.0,124.0,117.0,122.0,118.0,113.0,116.0,115.0,101.0,95.0,86.0,76.0,90.0,74.0,67.0
+Finance,Savings And Investments,Has Cash Isa,142.0,145.0,141.0,125.0,115.0,131.0,123.0,117.0,128.0,116.0,98.0,93.0,80.0,71.0,84.0,67.0,56.0
+Finance,Savings And Investments,Savings Value £1 - £500,72.0,90.0,90.0,92.0,105.0,113.0,99.0,103.0,92.0,112.0,101.0,101.0,104.0,100.0,113.0,92.0,98.0
+Finance,Savings And Investments,"Savings Value £500 - £2,500",111.0,105.0,105.0,112.0,119.0,111.0,111.0,111.0,99.0,118.0,113.0,99.0,98.0,88.0,96.0,84.0,78.0
+Finance,Loans,Has Loan,84.0,103.0,93.0,111.0,118.0,112.0,110.0,110.0,91.0,116.0,81.0,108.0,95.0,78.0,117.0,88.0,86.0
+Finance,Loans,Has Unsecured Loan,68.0,90.0,90.0,91.0,99.0,105.0,103.0,109.0,95.0,112.0,64.0,109.0,103.0,87.0,117.0,99.0,101.0
+Finance,Loans,Has 2+ Loans,100.0,105.0,86.0,171.0,139.0,103.0,103.0,103.0,87.0,119.0,103.0,98.0,87.0,63.0,103.0,99.0,100.0
+Finance,Insurance And Pensions,Has Life Protection Policy,103.0,104.0,103.0,94.0,94.0,104.0,104.0,110.0,104.0,98.0,66.0,102.0,106.0,110.0,89.0,95.0,91.0
+Finance,Insurance And Pensions,Has Pension Scheme Organised Through Company,103.0,114.0,97.0,129.0,134.0,96.0,111.0,114.0,76.0,134.0,83.0,102.0,95.0,64.0,103.0,92.0,78.0
+Finance,Financial Channel: Arrange Commoditised Financial Product,In Branch Or Other Face To Face,97.0,101.0,99.0,139.0,114.0,107.0,105.0,105.0,103.0,105.0,125.0,103.0,90.0,81.0,114.0,91.0,83.0
+Finance,Financial Channel: Arrange Commoditised Financial Product,Online,111.0,132.0,116.0,127.0,128.0,126.0,121.0,116.0,93.0,127.0,96.0,103.0,86.0,63.0,102.0,69.0,63.0
+Finance,Financial Channel: Arrange Commoditised Financial Product,By Post,127.0,118.0,118.0,153.0,119.0,118.0,104.0,105.0,104.0,94.0,94.0,94.0,91.0,86.0,101.0,82.0,79.0
+Finance,Financial Channel: Manage Current Account,In Branch,93.0,93.0,100.0,90.0,94.0,103.0,97.0,98.0,102.0,97.0,99.0,102.0,100.0,106.0,104.0,103.0,104.0
+Finance,Financial Channel: Manage Current Account,Online,114.0,123.0,106.0,135.0,130.0,108.0,113.0,107.0,81.0,121.0,125.0,94.0,88.0,66.0,103.0,88.0,76.0
+Finance,Financial Channel: Manage Current Account,Online Mobile,101.0,104.0,84.0,159.0,143.0,86.0,102.0,99.0,63.0,127.0,158.0,96.0,91.0,64.0,118.0,96.0,89.0
+Finance,Financial Channel: Manage Current Account,Online At Home Or Work,122.0,131.0,113.0,140.0,133.0,113.0,115.0,109.0,85.0,122.0,126.0,92.0,86.0,63.0,99.0,82.0,69.0
+Finance,Financial Channel: Manage Current Account,By Phone,129.0,122.0,111.0,155.0,124.0,115.0,106.0,100.0,91.0,112.0,123.0,93.0,88.0,78.0,100.0,85.0,77.0
+Finance,Financial Channel: Manage Savings Account,In Branch,109.0,105.0,121.0,81.0,86.0,117.0,110.0,112.0,135.0,101.0,85.0,102.0,95.0,97.0,94.0,89.0,84.0
+Finance,Financial Channel: Manage Savings Account,Online,132.0,143.0,116.0,167.0,150.0,121.0,120.0,111.0,89.0,126.0,128.0,88.0,79.0,53.0,94.0,73.0,62.0
+Finance,Financial Channel: Manage Savings Account,Online Mobile,97.0,105.0,84.0,197.0,161.0,90.0,105.0,98.0,67.0,122.0,171.0,92.0,86.0,56.0,119.0,91.0,83.0
+Finance,Financial Channel: Manage Savings Account,Online At Home Or Work,141.0,153.0,125.0,167.0,150.0,128.0,123.0,113.0,94.0,126.0,123.0,86.0,77.0,52.0,87.0,68.0,57.0
+Finance,Financial Channel: Manage Savings Account,By Post,138.0,124.0,130.0,74.0,80.0,123.0,103.0,112.0,126.0,101.0,65.0,99.0,94.0,104.0,87.0,88.0,78.0
+Finance,Expenditure Per Person Per Week,Total Expenditure,124.0,117.0,102.0,119.0,113.0,102.0,104.0,99.0,85.0,103.0,98.0,93.0,92.0,80.0,93.0,92.0,82.0
+Finance,Expenditure Per Person Per Week,Food And Non-Alcoholic Beverages,116.0,111.0,104.0,99.0,100.0,106.0,104.0,103.0,97.0,98.0,85.0,98.0,98.0,89.0,92.0,95.0,88.0
+Finance,Expenditure Per Person Per Week,Alcoholic Beverages And Tobacco,94.0,96.0,94.0,89.0,97.0,98.0,94.0,93.0,91.0,99.0,102.0,100.0,107.0,115.0,106.0,106.0,123.0
+Finance,Expenditure Per Person Per Week,Clothing And Footwear,134.0,127.0,106.0,103.0,108.0,111.0,107.0,104.0,84.0,102.0,84.0,95.0,91.0,73.0,87.0,85.0,74.0
+Finance,Expenditure Per Person Per Week,"Furnishings, Household Equipment And Routine Maintenance",144.0,132.0,114.0,105.0,102.0,107.0,110.0,105.0,94.0,97.0,78.0,91.0,88.0,75.0,81.0,80.0,71.0
+Finance,Expenditure Per Person Per Week,Health,139.0,130.0,118.0,109.0,110.0,108.0,114.0,107.0,100.0,104.0,71.0,90.0,86.0,70.0,82.0,72.0,62.0
+Finance,Expenditure Per Person Per Week,Transport,138.0,134.0,114.0,95.0,115.0,113.0,112.0,105.0,90.0,108.0,85.0,92.0,87.0,68.0,86.0,63.0,61.0
+Finance,Expenditure Per Person Per Week,Communication,104.0,102.0,97.0,119.0,110.0,96.0,101.0,100.0,92.0,105.0,106.0,98.0,96.0,90.0,100.0,102.0,95.0
+Finance,Expenditure Per Person Per Week,Recreation And Culture,132.0,126.0,110.0,92.0,105.0,108.0,111.0,107.0,89.0,103.0,78.0,94.0,94.0,75.0,84.0,82.0,74.0
+Finance,Expenditure Per Person Per Week,Restaurants And Hotels,125.0,120.0,104.0,123.0,116.0,103.0,107.0,104.0,86.0,108.0,99.0,95.0,88.0,71.0,93.0,84.0,73.0
+Finance,Expenditure Per Person Per Week,Miscellaneous Goods And Services,139.0,127.0,106.0,108.0,111.0,103.0,110.0,106.0,84.0,103.0,78.0,93.0,91.0,70.0,85.0,88.0,72.0
+Digital,Internet Access: Frequency,Weekly,113.0,113.0,104.0,118.0,114.0,103.0,107.0,104.0,88.0,109.0,116.0,99.0,93.0,74.0,101.0,98.0,89.0
+Digital,Internet Access: Usage In Last Week,3-7 Hours,85.0,89.0,94.0,67.0,97.0,87.0,100.0,103.0,85.0,109.0,58.0,109.0,108.0,89.0,100.0,121.0,107.0
+Digital,Internet Access: Usage In Last Week,8-19 Hours,138.0,123.0,108.0,123.0,123.0,106.0,109.0,104.0,83.0,117.0,120.0,98.0,90.0,70.0,100.0,89.0,82.0
+Digital,Digital Attitudes,I Worry That Any Personal Information Entered Online Will Not Remain Secure,105.0,105.0,105.0,96.0,100.0,104.0,101.0,102.0,101.0,100.0,95.0,98.0,98.0,97.0,96.0,96.0,96.0
+Digital,Digital Attitudes,I Couldn'T Live Without The Internet On My Mobile,97.0,92.0,80.0,143.0,134.0,75.0,94.0,99.0,62.0,114.0,133.0,99.0,96.0,86.0,113.0,112.0,108.0
+Digital,Digital Attitudes,I Love To Buy New Gadgets And Appliances,112.0,98.0,86.0,125.0,120.0,84.0,94.0,94.0,80.0,103.0,135.0,100.0,99.0,86.0,110.0,108.0,108.0
+Digital,Digital Attitudes,I Wait Until Technology Becomes Cheaper Before Considering A Purchase,102.0,103.0,102.0,99.0,102.0,104.0,100.0,104.0,101.0,102.0,101.0,99.0,98.0,93.0,102.0,95.0,95.0
+Digital,Digital Attitudes,Shopping Online Makes My Life Easier,105.0,112.0,100.0,124.0,124.0,101.0,101.0,101.0,86.0,112.0,111.0,93.0,90.0,81.0,101.0,96.0,87.0
+Digital,Technology At Home,Portable Media Player,146.0,148.0,105.0,136.0,125.0,108.0,113.0,108.0,75.0,117.0,151.0,89.0,89.0,56.0,97.0,85.0,71.0
+Digital,Technology At Home,Videogame Console,104.0,115.0,88.0,116.0,119.0,95.0,108.0,104.0,65.0,119.0,125.0,98.0,104.0,65.0,108.0,98.0,89.0
+Digital,Tv On Demand,Watch On A Pc,114.0,100.0,86.0,141.0,135.0,82.0,93.0,93.0,58.0,112.0,180.0,99.0,91.0,78.0,113.0,105.0,100.0
+Digital,Tv On Demand,Watch On A Tv Set,101.0,110.0,94.0,106.0,113.0,88.0,97.0,114.0,86.0,110.0,87.0,97.0,103.0,86.0,97.0,96.0,97.0
+Digital,Tv On Demand,Watch On A Mobile Phone/Device,99.0,103.0,89.0,131.0,131.0,78.0,103.0,98.0,64.0,116.0,117.0,96.0,100.0,82.0,106.0,101.0,101.0
+Digital,Mobile Phone,Has Mobile Phone With Access To Internet,110.0,108.0,94.0,121.0,121.0,95.0,101.0,105.0,73.0,111.0,127.0,98.0,100.0,73.0,104.0,100.0,92.0
+Digital,Smartphone Brand,Blackberry,151.0,109.0,98.0,166.0,133.0,97.0,97.0,97.0,69.0,97.0,101.0,87.0,87.0,67.0,106.0,114.0,106.0
+Digital,Smartphone Brand,Iphone,145.0,128.0,98.0,167.0,151.0,82.0,110.0,108.0,62.0,119.0,140.0,92.0,90.0,55.0,91.0,99.0,75.0
+Digital,Smartphone Brand,Htc,100.0,100.0,100.0,127.0,128.0,97.0,100.0,100.0,73.0,118.0,149.0,98.0,98.0,77.0,103.0,93.0,88.0
+Digital,Smartphone Brand,Lg,91.0,91.0,83.0,135.0,113.0,100.0,100.0,100.0,100.0,100.0,151.0,94.0,95.0,84.0,107.0,105.0,105.0
+Digital,Smartphone Brand,Motorola,114.0,109.0,102.0,101.0,101.0,81.0,101.0,101.0,101.0,101.0,112.0,104.0,101.0,83.0,101.0,100.0,101.0
+Digital,Smartphone Brand,Nokia,102.0,102.0,102.0,93.0,94.0,118.0,101.0,101.0,95.0,101.0,106.0,100.0,100.0,100.0,104.0,91.0,99.0
+Digital,Smartphone Brand,Samsung,91.0,94.0,88.0,99.0,111.0,98.0,98.0,106.0,75.0,109.0,114.0,103.0,107.0,80.0,106.0,104.0,99.0
+Digital,Tablet Devices,"Has Tablet (E.G. Ipad, Samsung Galaxy Tab, Sony Xperia)",140.0,137.0,112.0,130.0,124.0,108.0,116.0,111.0,87.0,117.0,108.0,96.0,88.0,63.0,94.0,84.0,74.0
+Digital,Social Media Activity (At Least Weekly),Play Games,87.0,88.0,87.0,78.0,92.0,83.0,96.0,108.0,76.0,117.0,131.0,111.0,104.0,85.0,113.0,116.0,106.0
+Digital,Social Media Activity (At Least Weekly),"Share/Upload Content/Links You Have Found (E.G. Photos, Videos)",90.0,90.0,86.0,116.0,112.0,90.0,94.0,94.0,63.0,112.0,168.0,111.0,104.0,74.0,104.0,111.0,99.0
+Digital,Social Media Activity (At Least Weekly),"Make Comments On Your Friends Status, Photos Etc",87.0,94.0,93.0,110.0,110.0,94.0,99.0,101.0,79.0,106.0,139.0,101.0,103.0,78.0,102.0,110.0,96.0
+Digital,Social Media Activity (At Least Weekly),"Look At Content/Updates Your Friends Have Posted (E.G. Photos, Videos, Status Updates)",93.0,105.0,96.0,123.0,119.0,101.0,103.0,101.0,81.0,108.0,130.0,95.0,95.0,72.0,102.0,100.0,87.0
+Digital,Social Media Activity (At Least Weekly),"Update Your Profile (E.G. Pictures, Hobbies)",93.0,93.0,91.0,122.0,108.0,78.0,88.0,88.0,62.0,112.0,159.0,108.0,105.0,73.0,111.0,124.0,100.0
+Digital,Social Media Activity (At Least Weekly),"Access Services/Other Social Networks Through Apps On Facebook (E.G. Spotify, Pinterest, Instagram)",95.0,97.0,87.0,125.0,117.0,77.0,90.0,90.0,78.0,112.0,183.0,100.0,97.0,80.0,104.0,124.0,90.0
+Digital,Social Media Activity (At Least Weekly),Watch Video Content,95.0,96.0,91.0,134.0,127.0,94.0,97.0,95.0,73.0,117.0,166.0,98.0,98.0,69.0,99.0,101.0,94.0
+Digital,Social Media Activity (At Least Weekly),Direct Messaging,103.0,97.0,85.0,141.0,133.0,95.0,108.0,93.0,58.0,101.0,169.0,99.0,99.0,70.0,99.0,105.0,87.0
+Digital,Social Media Activity (At Least Weekly),Take And Upload A Video/Photo,96.0,99.0,86.0,135.0,130.0,92.0,94.0,91.0,69.0,104.0,160.0,100.0,100.0,66.0,101.0,116.0,90.0
+Digital,Social Media Activity (At Least Weekly),Browsing To See What My Friends Are Up To,99.0,103.0,94.0,123.0,117.0,94.0,100.0,99.0,71.0,115.0,145.0,96.0,97.0,69.0,101.0,106.0,89.0
+Digital,Social Media Brands (Used At Least Weekly),Youtube,89.0,90.0,84.0,160.0,121.0,84.0,92.0,86.0,70.0,111.0,185.0,107.0,95.0,69.0,111.0,108.0,100.0
+Digital,Social Media Brands (Used At Least Weekly),Twitter,86.0,98.0,87.0,154.0,131.0,80.0,99.0,98.0,77.0,128.0,153.0,115.0,92.0,60.0,94.0,94.0,90.0
+Digital,Social Media Brands (Used At Least Weekly),Facebook,86.0,103.0,94.0,124.0,120.0,98.0,100.0,98.0,83.0,109.0,130.0,96.0,95.0,75.0,101.0,104.0,91.0
+Digital,Social Media Brands (Used At Least Weekly),Whatsapp,95.0,101.0,85.0,188.0,157.0,71.0,111.0,96.0,68.0,112.0,190.0,90.0,83.0,55.0,93.0,113.0,71.0
+Digital,Number Of Apps On Mobile Phone (Free Or Paid),Unknown,119.0,125.0,119.0,75.0,87.0,103.0,103.0,103.0,92.0,103.0,83.0,108.0,99.0,99.0,73.0,94.0,89.0
+Digital,Number Of Apps On Mobile Phone (Free Or Paid),1-10.,111.0,109.0,108.0,118.0,108.0,99.0,112.0,99.0,99.0,92.0,93.0,102.0,103.0,70.0,99.0,96.0,82.0
+Digital,Number Of Apps On Mobile Phone (Free Or Paid),11-20.,104.0,112.0,86.0,130.0,124.0,78.0,97.0,100.0,73.0,111.0,111.0,93.0,102.0,68.0,107.0,110.0,96.0
+Digital,Number Of Apps On Mobile Phone (Free Or Paid),21-30,127.0,106.0,104.0,123.0,117.0,106.0,106.0,106.0,80.0,136.0,172.0,84.0,84.0,67.0,91.0,91.0,78.0
+Digital,Types Of Internet Usage : Laptop Or Pc,Enter Competitions,66.0,98.0,104.0,121.0,115.0,98.0,98.0,94.0,91.0,122.0,130.0,95.0,95.0,81.0,105.0,97.0,90.0
+Digital,Types Of Internet Usage : Laptop Or Pc,Use Gps Services (E.G. Maps),116.0,116.0,116.0,135.0,128.0,96.0,98.0,85.0,92.0,101.0,144.0,89.0,87.0,68.0,96.0,93.0,94.0
+Digital,Types Of Internet Usage : Laptop Or Pc,Use Skype,123.0,113.0,113.0,168.0,141.0,95.0,105.0,90.0,72.0,107.0,182.0,86.0,75.0,64.0,86.0,87.0,87.0
+Digital,Types Of Internet Usage : Laptop Or Pc,Listen To Music,98.0,98.0,98.0,155.0,127.0,89.0,99.0,89.0,78.0,112.0,158.0,92.0,87.0,76.0,109.0,103.0,88.0
+Digital,Types Of Internet Usage : Laptop Or Pc,Download Content/Information From An Advertising Poster,98.0,101.0,98.0,126.0,120.0,79.0,102.0,90.0,73.0,115.0,176.0,85.0,95.0,77.0,95.0,116.0,101.0
+Digital,Types Of Internet Usage : Laptop Or Pc,Send And Receive Personal Emails,108.0,108.0,109.0,122.0,120.0,102.0,105.0,101.0,87.0,111.0,113.0,90.0,90.0,76.0,93.0,93.0,91.0
+Digital,Types Of Internet Usage : Laptop Or Pc,Play Games,85.0,87.0,98.0,95.0,99.0,94.0,99.0,102.0,91.0,108.0,116.0,101.0,110.0,80.0,111.0,104.0,108.0
+Digital,Types Of Internet Usage : Laptop Or Pc,Listen To The Radio,109.0,101.0,101.0,163.0,144.0,78.0,97.0,97.0,85.0,112.0,152.0,90.0,76.0,71.0,106.0,96.0,96.0
+Digital,Types Of Internet Usage : Laptop Or Pc,Send Pictures/Videos To Others,109.0,109.0,109.0,131.0,127.0,101.0,102.0,97.0,82.0,101.0,125.0,94.0,90.0,74.0,93.0,90.0,93.0
+Digital,Types Of Internet Usage : Laptop Or Pc,Receive/Redeem Coupons And Vouchers,107.0,110.0,111.0,123.0,123.0,112.0,99.0,94.0,87.0,109.0,127.0,89.0,90.0,71.0,101.0,90.0,84.0
+Digital,Types Of Internet Usage : Laptop Or Pc,Source Info On Products/Services Via Internet,110.0,110.0,110.0,126.0,121.0,106.0,108.0,96.0,90.0,111.0,112.0,90.0,88.0,73.0,97.0,94.0,82.0
+Digital,Types Of Internet Usage : Laptop Or Pc,Book Tickets Via The Internet,134.0,120.0,114.0,154.0,135.0,99.0,104.0,100.0,75.0,107.0,142.0,85.0,84.0,62.0,92.0,82.0,74.0
+Digital,Types Of Internet Usage : Laptop Or Pc,Download Music Via The Internet,97.0,103.0,103.0,146.0,137.0,99.0,99.0,91.0,82.0,127.0,156.0,89.0,88.0,60.0,98.0,95.0,85.0
+Digital,Types Of Internet Usage : Laptop Or Pc,Locate Places/Shops/Businesses Via The Internet,122.0,117.0,118.0,130.0,126.0,99.0,99.0,95.0,87.0,104.0,127.0,90.0,87.0,72.0,91.0,93.0,81.0
+Digital,Types Of Internet Usage : Laptop Or Pc,Watch Tv/Films/Video Clips Via The Internet,99.0,101.0,99.0,151.0,131.0,96.0,100.0,89.0,75.0,107.0,160.0,94.0,92.0,68.0,104.0,99.0,84.0
+Digital,Types Of Internet Usage : Laptop Or Pc,Manage Personal Finances (Banking) Via The Internet,99.0,107.0,108.0,129.0,125.0,102.0,105.0,100.0,95.0,110.0,118.0,88.0,88.0,76.0,99.0,92.0,84.0
+Digital,Types Of Internet Usage : Laptop Or Pc,Read Customer Ratings/Reviews,107.0,107.0,109.0,125.0,123.0,102.0,99.0,95.0,88.0,105.0,125.0,96.0,90.0,80.0,94.0,94.0,88.0
+Digital,Types Of Internet Usage : Laptop Or Pc,Post Ratings And Reviews,108.0,108.0,111.0,119.0,114.0,98.0,98.0,96.0,86.0,101.0,125.0,92.0,94.0,82.0,98.0,102.0,85.0
+Digital,Types Of Internet Usage : Laptop Or Pc,Take Part In Discussion Groups/Online Forums,87.0,99.0,106.0,128.0,116.0,92.0,96.0,89.0,72.0,101.0,139.0,101.0,98.0,85.0,98.0,107.0,93.0
+Digital,Types Of Internet Usage : Laptop Or Pc,Donate To Charity,110.0,122.0,122.0,162.0,146.0,104.0,97.0,84.0,76.0,100.0,155.0,81.0,75.0,59.0,91.0,91.0,78.0
+Digital,Types Of Internet Usage : Laptop Or Pc,Write Your Own Blog/Homepage,105.0,118.0,99.0,165.0,108.0,88.0,93.0,84.0,50.0,111.0,188.0,95.0,85.0,64.0,102.0,102.0,102.0
+Digital,Types Of Internet Usage : Laptop Or Pc,Access News Via News Site (Other Than Online Newspapers),109.0,110.0,109.0,133.0,133.0,104.0,105.0,89.0,81.0,102.0,129.0,89.0,89.0,67.0,103.0,95.0,84.0
+Digital,Types Of Internet Usage : Laptop Or Pc,Download A Podcast,129.0,115.0,96.0,153.0,135.0,94.0,88.0,93.0,60.0,117.0,164.0,94.0,87.0,78.0,88.0,96.0,85.0
+Digital,Types Of Internet Usage : Laptop Or Pc,Online Auctions (E.G. Ebay),101.0,103.0,103.0,112.0,113.0,107.0,101.0,98.0,94.0,107.0,110.0,95.0,95.0,85.0,98.0,97.0,92.0
+Digital,Types Of Internet Usage : Laptop Or Pc,Watch Online Videos Made By Other Users (E.G. Youtube),98.0,99.0,98.0,137.0,126.0,96.0,96.0,94.0,81.0,105.0,140.0,97.0,95.0,78.0,99.0,98.0,95.0
+Digital,Types Of Internet Usage : Laptop Or Pc,"Social Networking (E.G. Facebook, Twitter)",93.0,99.0,99.0,136.0,122.0,98.0,98.0,95.0,79.0,106.0,133.0,96.0,96.0,80.0,101.0,99.0,93.0
+Digital,Types Of Internet Usage : Laptop Or Pc,Read Newspapers Online,125.0,111.0,111.0,142.0,132.0,99.0,96.0,89.0,87.0,127.0,128.0,89.0,80.0,58.0,105.0,96.0,86.0
+Digital,Types Of Internet Usage : Laptop Or Pc,Read Magazines Online,127.0,104.0,103.0,198.0,151.0,94.0,94.0,83.0,72.0,131.0,129.0,91.0,75.0,59.0,100.0,87.0,95.0
+Digital,Types Of Internet Usage : Laptop Or Pc,"Upload Content (Video, Articles, Music, Etc) That You Have Created",99.0,99.0,98.0,125.0,124.0,95.0,93.0,88.0,46.0,115.0,184.0,109.0,89.0,72.0,97.0,104.0,99.0
+Digital,Types Of Internet Usage : Laptop Or Pc,"Stream/Watch Live Events (E.G. Music, Sport Etc.)",99.0,98.0,101.0,173.0,133.0,86.0,99.0,83.0,74.0,123.0,166.0,91.0,91.0,63.0,103.0,98.0,89.0
+Digital,Types Of Internet Usage : Laptop Or Pc,Make An Online Purchase,105.0,107.0,105.0,122.0,120.0,102.0,105.0,102.0,90.0,110.0,124.0,91.0,91.0,76.0,93.0,93.0,88.0
+Digital,Types Of Internet Usage : Mobile Phone,Access Content Via An Electronic Bar Code (Qr Scanner) (E.G. Ebay Scanner),100.0,103.0,100.0,152.0,153.0,74.0,98.0,99.0,85.0,109.0,158.0,101.0,81.0,56.0,96.0,96.0,88.0
+Digital,Types Of Internet Usage : Mobile Phone,Use Gps Services (E.G. Maps),111.0,112.0,99.0,157.0,137.0,84.0,99.0,98.0,72.0,119.0,142.0,88.0,88.0,64.0,96.0,99.0,82.0
+Digital,Types Of Internet Usage : Mobile Phone,Use Skype,98.0,100.0,91.0,178.0,163.0,74.0,103.0,93.0,64.0,107.0,188.0,96.0,83.0,51.0,91.0,108.0,86.0
+Digital,Types Of Internet Usage : Mobile Phone,Listen To Music,83.0,105.0,92.0,153.0,145.0,80.0,102.0,95.0,63.0,125.0,156.0,95.0,81.0,60.0,98.0,109.0,87.0
+Digital,Types Of Internet Usage : Mobile Phone,"Vote On Television Shows (E.G. X Factor, Strictly Come Dancing)",98.0,92.0,88.0,109.0,110.0,80.0,96.0,94.0,59.0,116.0,137.0,97.0,97.0,94.0,109.0,126.0,106.0
+Digital,Types Of Internet Usage : Mobile Phone,Send And Receive Personal Emails,117.0,113.0,102.0,155.0,143.0,86.0,105.0,97.0,73.0,119.0,139.0,88.0,88.0,62.0,90.0,97.0,77.0
+Digital,Types Of Internet Usage : Mobile Phone,Play Games,97.0,98.0,92.0,107.0,132.0,83.0,108.0,104.0,65.0,116.0,130.0,104.0,95.0,61.0,110.0,110.0,83.0
+Digital,Types Of Internet Usage : Mobile Phone,Listen To The Radio,96.0,96.0,93.0,152.0,143.0,85.0,103.0,98.0,64.0,129.0,134.0,100.0,81.0,63.0,96.0,104.0,96.0
+Digital,Types Of Internet Usage : Mobile Phone,Send Pictures/Videos To Others,74.0,106.0,100.0,151.0,145.0,83.0,103.0,99.0,74.0,110.0,148.0,93.0,93.0,64.0,93.0,102.0,75.0
+Digital,Types Of Internet Usage : Mobile Phone,Take Pictures/Video Clips,103.0,109.0,100.0,136.0,135.0,91.0,104.0,99.0,77.0,114.0,130.0,97.0,92.0,63.0,98.0,97.0,78.0
+Digital,Types Of Internet Usage : Mobile Phone,Receive/Redeem Coupons And Vouchers,100.0,103.0,100.0,152.0,154.0,77.0,101.0,99.0,61.0,134.0,157.0,90.0,95.0,59.0,84.0,95.0,80.0
+Digital,Types Of Internet Usage : Mobile Phone,Source Info On Products/Services Via Internet,104.0,111.0,97.0,143.0,145.0,81.0,99.0,99.0,68.0,127.0,125.0,101.0,89.0,65.0,94.0,97.0,75.0
+Digital,Types Of Internet Usage : Mobile Phone,Book Tickets Via The Internet,99.0,103.0,99.0,193.0,162.0,66.0,102.0,89.0,79.0,116.0,147.0,86.0,86.0,51.0,97.0,112.0,79.0
+Digital,Types Of Internet Usage : Mobile Phone,Download Music Via The Internet,136.0,107.0,100.0,142.0,141.0,72.0,108.0,103.0,85.0,108.0,138.0,91.0,91.0,63.0,96.0,96.0,88.0
+Digital,Types Of Internet Usage : Mobile Phone,Instant Messaging,100.0,107.0,94.0,151.0,141.0,84.0,109.0,101.0,73.0,112.0,138.0,94.0,92.0,62.0,96.0,96.0,80.0
+Digital,Types Of Internet Usage : Mobile Phone,Locate Places/Shops/Businesses Via The Internet,100.0,111.0,97.0,167.0,147.0,83.0,102.0,99.0,67.0,130.0,143.0,89.0,87.0,56.0,94.0,94.0,77.0
+Digital,Types Of Internet Usage : Mobile Phone,Watch Tv/Films/Video Clips Via The Internet,88.0,97.0,85.0,170.0,136.0,77.0,101.0,95.0,63.0,110.0,148.0,97.0,92.0,67.0,101.0,119.0,87.0
+Digital,Types Of Internet Usage : Mobile Phone,Manage Personal Finances (Banking) Via The Internet,90.0,93.0,83.0,150.0,140.0,87.0,103.0,99.0,82.0,116.0,142.0,95.0,93.0,65.0,99.0,112.0,88.0
+Digital,Types Of Internet Usage : Mobile Phone,Update My Location (E.G. Places/Via Foursquare),92.0,92.0,90.0,155.0,144.0,81.0,114.0,96.0,52.0,121.0,119.0,93.0,87.0,87.0,98.0,116.0,78.0
+Digital,Types Of Internet Usage : Mobile Phone,Pay For Things With My Mobile Phone,98.0,101.0,91.0,135.0,137.0,84.0,97.0,94.0,59.0,120.0,154.0,97.0,97.0,66.0,94.0,119.0,81.0
+Digital,Types Of Internet Usage : Mobile Phone,Read Customer Ratings/Reviews,98.0,99.0,98.0,172.0,161.0,78.0,97.0,97.0,76.0,127.0,133.0,91.0,83.0,62.0,94.0,107.0,74.0
+Digital,Types Of Internet Usage : Mobile Phone,Check Stocks/Shares/Investments,128.0,124.0,112.0,155.0,148.0,73.0,111.0,92.0,78.0,92.0,135.0,85.0,85.0,50.0,99.0,105.0,76.0
+Digital,Types Of Internet Usage : Mobile Phone,"Commenting On Someone ElseS Blog, Or Their Content/Opinions",89.0,90.0,83.0,155.0,142.0,71.0,96.0,87.0,65.0,130.0,179.0,98.0,98.0,68.0,101.0,124.0,75.0
+Digital,Types Of Internet Usage : Mobile Phone,Read Someone ElseS Blog,98.0,114.0,82.0,192.0,150.0,76.0,95.0,83.0,52.0,122.0,184.0,97.0,85.0,66.0,97.0,101.0,79.0
+Digital,Types Of Internet Usage : Mobile Phone,Access News Via News Site (Other Than Online Newspapers),98.0,112.0,95.0,153.0,151.0,87.0,104.0,100.0,76.0,127.0,151.0,100.0,81.0,54.0,88.0,94.0,73.0
+Digital,Types Of Internet Usage : Mobile Phone,Online Auctions (E.G. Ebay),82.0,91.0,90.0,123.0,140.0,86.0,99.0,99.0,95.0,121.0,125.0,106.0,98.0,76.0,99.0,105.0,79.0
+Digital,Types Of Internet Usage : Mobile Phone,Watch Online Videos Made By Other Users (E.G. Youtube),93.0,98.0,84.0,155.0,146.0,83.0,96.0,98.0,70.0,130.0,133.0,98.0,93.0,58.0,104.0,110.0,81.0
+Digital,Types Of Internet Usage : Mobile Phone,"Social Networking (E.G. Facebook, Twitter)",97.0,100.0,91.0,142.0,135.0,87.0,106.0,99.0,79.0,116.0,136.0,99.0,94.0,65.0,98.0,106.0,80.0
+Digital,Types Of Internet Usage : Mobile Phone,"Stream/Watch Live Events (E.G. Music, Sport Etc.)",99.0,99.0,97.0,138.0,138.0,69.0,87.0,92.0,45.0,128.0,185.0,116.0,83.0,56.0,114.0,101.0,92.0
+Digital,Types Of Internet Usage : Mobile Phone,Make An Online Purchase,87.0,93.0,93.0,143.0,143.0,78.0,103.0,102.0,83.0,114.0,130.0,100.0,95.0,60.0,96.0,110.0,87.0
+Digital,Types Of Internet Usage : Tablet / Ipad,Enter Competitions,106.0,114.0,105.0,104.0,114.0,94.0,100.0,106.0,63.0,122.0,77.0,97.0,108.0,80.0,99.0,96.0,75.0
+Digital,Types Of Internet Usage : Tablet / Ipad,Use Gps Services (E.G. Maps),129.0,145.0,118.0,130.0,112.0,116.0,98.0,88.0,81.0,97.0,115.0,81.0,93.0,60.0,86.0,95.0,78.0
+Digital,Types Of Internet Usage : Tablet / Ipad,Use Skype,127.0,122.0,111.0,134.0,134.0,91.0,120.0,102.0,84.0,112.0,123.0,89.0,88.0,58.0,88.0,90.0,62.0
+Digital,Types Of Internet Usage : Tablet / Ipad,Listen To Music,117.0,112.0,112.0,123.0,123.0,99.0,98.0,99.0,74.0,121.0,117.0,89.0,97.0,64.0,93.0,94.0,87.0
+Digital,Types Of Internet Usage : Tablet / Ipad,"Vote On Television Shows (E.G. X Factor, Strictly Come Dancing)",98.0,114.0,85.0,98.0,98.0,98.0,98.0,96.0,96.0,132.0,99.0,98.0,98.0,83.0,114.0,98.0,96.0
+Digital,Types Of Internet Usage : Tablet / Ipad,Send And Receive Personal Emails,126.0,131.0,125.0,123.0,123.0,104.0,105.0,108.0,75.0,110.0,86.0,82.0,85.0,64.0,91.0,89.0,72.0
+Digital,Types Of Internet Usage : Tablet / Ipad,Listen To The Radio,136.0,119.0,119.0,131.0,127.0,99.0,110.0,99.0,54.0,115.0,121.0,88.0,88.0,64.0,87.0,87.0,86.0
+Digital,Types Of Internet Usage : Tablet / Ipad,Send Pictures/Videos To Others,108.0,112.0,114.0,110.0,110.0,110.0,102.0,111.0,69.0,102.0,123.0,90.0,98.0,58.0,90.0,101.0,87.0
+Digital,Types Of Internet Usage : Tablet / Ipad,Take Pictures/Video Clips,147.0,110.0,110.0,107.0,107.0,103.0,106.0,103.0,83.0,116.0,97.0,85.0,107.0,74.0,94.0,97.0,81.0
+Digital,Types Of Internet Usage : Tablet / Ipad,Receive/Redeem Coupons And Vouchers,144.0,102.0,102.0,115.0,123.0,103.0,118.0,98.0,56.0,129.0,120.0,89.0,117.0,56.0,89.0,100.0,69.0
+Digital,Types Of Internet Usage : Tablet / Ipad,Source Info On Products/Services Via Internet,122.0,127.0,122.0,119.0,125.0,108.0,109.0,107.0,85.0,115.0,84.0,81.0,81.0,60.0,89.0,95.0,73.0
+Digital,Types Of Internet Usage : Tablet / Ipad,Book Tickets Via The Internet,122.0,126.0,122.0,136.0,139.0,88.0,108.0,100.0,100.0,104.0,106.0,88.0,93.0,59.0,83.0,88.0,62.0
+Digital,Types Of Internet Usage : Tablet / Ipad,Download Music Via The Internet,108.0,108.0,108.0,96.0,113.0,88.0,110.0,101.0,69.0,123.0,96.0,96.0,110.0,69.0,92.0,99.0,92.0
+Digital,Types Of Internet Usage : Tablet / Ipad,Instant Messaging,114.0,121.0,113.0,101.0,109.0,102.0,95.0,99.0,93.0,114.0,94.0,88.0,97.0,66.0,96.0,103.0,93.0
+Digital,Types Of Internet Usage : Tablet / Ipad,Locate Places/Shops/Businesses Via The Internet,136.0,126.0,123.0,121.0,126.0,110.0,116.0,103.0,65.0,103.0,104.0,82.0,82.0,65.0,88.0,93.0,74.0
+Digital,Types Of Internet Usage : Tablet / Ipad,Watch Tv/Films/Video Clips Via The Internet,117.0,111.0,115.0,136.0,128.0,102.0,104.0,108.0,56.0,117.0,108.0,86.0,89.0,61.0,92.0,96.0,80.0
+Digital,Types Of Internet Usage : Tablet / Ipad,Manage Personal Finances (Banking) Via The Internet,124.0,121.0,109.0,118.0,118.0,107.0,109.0,108.0,97.0,108.0,73.0,87.0,99.0,70.0,97.0,88.0,65.0
+Digital,Types Of Internet Usage : Tablet / Ipad,Read Customer Ratings/Reviews,96.0,119.0,114.0,138.0,139.0,101.0,104.0,109.0,91.0,103.0,105.0,86.0,88.0,63.0,88.0,88.0,71.0
+Digital,Types Of Internet Usage : Tablet / Ipad,Post Ratings And Reviews,105.0,119.0,112.0,118.0,121.0,99.0,99.0,105.0,46.0,104.0,93.0,93.0,98.0,71.0,95.0,95.0,90.0
+Digital,Types Of Internet Usage : Tablet / Ipad,Take Part In Discussion Groups/Online Forums,92.0,116.0,100.0,117.0,117.0,92.0,103.0,99.0,57.0,109.0,127.0,99.0,111.0,73.0,91.0,88.0,91.0
+Digital,Types Of Internet Usage : Tablet / Ipad,Donate To Charity,128.0,136.0,128.0,162.0,123.0,98.0,117.0,93.0,81.0,102.0,110.0,85.0,82.0,41.0,78.0,100.0,67.0
+Digital,Types Of Internet Usage : Tablet / Ipad,"Commenting On Someone ElseS Blog, Or Their Content/Opinions",80.0,93.0,93.0,137.0,143.0,99.0,101.0,99.0,59.0,102.0,117.0,98.0,98.0,74.0,99.0,114.0,78.0
+Digital,Types Of Internet Usage : Tablet / Ipad,Access News Via News Site (Other Than Online Newspapers),118.0,129.0,114.0,122.0,129.0,108.0,115.0,108.0,81.0,115.0,111.0,88.0,90.0,62.0,80.0,82.0,59.0
+Digital,Types Of Internet Usage : Tablet / Ipad,Online Auctions (E.G. Ebay),99.0,111.0,118.0,113.0,116.0,102.0,107.0,113.0,94.0,112.0,76.0,88.0,100.0,69.0,88.0,97.0,71.0
+Digital,Types Of Internet Usage : Tablet / Ipad,Watch Online Videos Made By Other Users (E.G. Youtube),108.0,108.0,108.0,135.0,130.0,101.0,102.0,112.0,88.0,122.0,108.0,87.0,91.0,61.0,93.0,90.0,76.0
+Digital,Types Of Internet Usage : Tablet / Ipad,"Social Networking (E.G. Facebook, Twitter)",98.0,116.0,112.0,120.0,117.0,101.0,102.0,109.0,74.0,111.0,107.0,88.0,98.0,61.0,93.0,102.0,75.0
+Digital,Types Of Internet Usage : Tablet / Ipad,Read Newspapers Online,112.0,132.0,123.0,155.0,142.0,99.0,104.0,99.0,69.0,101.0,104.0,83.0,90.0,55.0,81.0,81.0,78.0
+Digital,Types Of Internet Usage : Tablet / Ipad,"Stream/Watch Live Events (E.G. Music, Sport Etc.)",88.0,106.0,112.0,147.0,142.0,93.0,109.0,100.0,83.0,115.0,123.0,86.0,86.0,57.0,92.0,92.0,87.0
+Digital,Types Of Internet Usage : Tablet / Ipad,Make An Online Purchase,113.0,116.0,113.0,124.0,124.0,101.0,114.0,109.0,95.0,114.0,86.0,88.0,96.0,58.0,92.0,88.0,73.0
+Digital,Regularly Research On The Internet,Computer/Video Games,89.0,89.0,87.0,78.0,117.0,80.0,104.0,96.0,75.0,107.0,149.0,104.0,105.0,71.0,115.0,115.0,115.0
+Digital,Regularly Research On The Internet,Credit Cards,93.0,103.0,103.0,159.0,146.0,97.0,108.0,91.0,87.0,117.0,86.0,87.0,93.0,57.0,117.0,88.0,83.0
+Digital,Regularly Research On The Internet,Current Accounts,125.0,115.0,115.0,121.0,120.0,99.0,100.0,93.0,99.0,110.0,109.0,104.0,89.0,72.0,89.0,89.0,81.0
+Digital,Regularly Research On The Internet,Local Government Services,105.0,113.0,102.0,122.0,112.0,123.0,103.0,95.0,97.0,112.0,86.0,86.0,86.0,81.0,99.0,99.0,93.0
+Digital,Regularly Research On The Internet,"Household Utilities (E.G. Gas, Electricity)",111.0,118.0,110.0,111.0,111.0,115.0,106.0,105.0,106.0,107.0,87.0,92.0,90.0,84.0,99.0,72.0,85.0
+Digital,Regularly Research On The Internet,Furniture,98.0,98.0,94.0,121.0,118.0,101.0,107.0,102.0,102.0,112.0,90.0,90.0,90.0,87.0,100.0,100.0,106.0
+Digital,Regularly Research On The Internet,Beer/Wine/Spirits,113.0,122.0,115.0,128.0,133.0,87.0,98.0,98.0,98.0,105.0,174.0,89.0,91.0,67.0,83.0,83.0,77.0
+Digital,Regularly Research On The Internet,Tickets For Events/Cinema/Theatre,116.0,129.0,105.0,154.0,134.0,98.0,107.0,100.0,79.0,118.0,139.0,89.0,89.0,64.0,79.0,79.0,69.0
+Digital,Regularly Research On The Internet,Sports Equipment,117.0,131.0,122.0,100.0,120.0,99.0,109.0,99.0,81.0,111.0,114.0,92.0,89.0,83.0,79.0,79.0,79.0
+Digital,Regularly Research On The Internet,Mobile Phones/Mobile Accessories,79.0,104.0,92.0,111.0,111.0,98.0,101.0,101.0,100.0,116.0,124.0,98.0,96.0,78.0,98.0,99.0,99.0
+Digital,Regularly Research On The Internet,"Other Insurance (E.G. Life, Travel)",121.0,122.0,121.0,131.0,115.0,105.0,121.0,109.0,93.0,111.0,86.0,89.0,86.0,73.0,92.0,76.0,64.0
+Digital,Regularly Research On The Internet,Eating Out,124.0,127.0,106.0,161.0,149.0,88.0,109.0,99.0,76.0,120.0,149.0,87.0,81.0,62.0,84.0,75.0,71.0
+Digital,Regularly Research On The Internet,Days Out,108.0,113.0,103.0,117.0,121.0,93.0,111.0,112.0,77.0,113.0,112.0,95.0,98.0,78.0,91.0,81.0,77.0
+Digital,Regularly Research On The Internet,Household Electrical Products,120.0,106.0,107.0,92.0,107.0,114.0,116.0,100.0,117.0,111.0,83.0,90.0,104.0,87.0,87.0,87.0,87.0
+Digital,Regularly Research On The Internet,Videos/Dvds/Mp4,101.0,92.0,94.0,81.0,112.0,100.0,105.0,94.0,100.0,119.0,97.0,97.0,101.0,80.0,115.0,106.0,108.0
+Digital,Regularly Research On The Internet,Computer Software/Programmes/Hardware,100.0,101.0,100.0,110.0,113.0,105.0,107.0,88.0,91.0,121.0,113.0,94.0,88.0,81.0,103.0,103.0,107.0
+Digital,Regularly Research On The Internet,"Music (E.G. Cds, Mp3S)",99.0,99.0,99.0,112.0,121.0,104.0,107.0,100.0,104.0,112.0,128.0,95.0,99.0,72.0,95.0,95.0,85.0
+Digital,Regularly Research On The Internet,Books,118.0,121.0,113.0,122.0,121.0,106.0,101.0,99.0,89.0,110.0,105.0,91.0,95.0,75.0,85.0,86.0,77.0
+Digital,Regularly Research On The Internet,"Consumer Electronics (E.G. Tvs, Stereos)",75.0,105.0,101.0,110.0,119.0,102.0,102.0,102.0,102.0,120.0,90.0,91.0,88.0,79.0,106.0,103.0,90.0
+Digital,Regularly Research On The Internet,Hotel Reservations,126.0,139.0,117.0,145.0,124.0,100.0,121.0,105.0,96.0,105.0,86.0,89.0,84.0,71.0,82.0,70.0,60.0
+Digital,Regularly Research On The Internet,Sports And Leisurewear/Trainers,109.0,114.0,109.0,109.0,121.0,103.0,96.0,99.0,87.0,121.0,114.0,103.0,87.0,75.0,88.0,89.0,89.0
+Digital,Regularly Research On The Internet,Personal Electronic Products (E.G. Electric Razors),99.0,102.0,99.0,100.0,100.0,107.0,110.0,92.0,84.0,122.0,146.0,91.0,99.0,84.0,98.0,98.0,96.0
+Digital,Regularly Research On The Internet,"Domestic Appliances (E.G. Fridge, Washing Machine)",112.0,117.0,106.0,95.0,104.0,114.0,104.0,103.0,104.0,104.0,76.0,94.0,105.0,85.0,85.0,91.0,91.0
+Digital,Regularly Research On The Internet,"Personal Grooming Products (E.G. Skin Care, Fragrances, Etc.)",108.0,114.0,100.0,146.0,137.0,94.0,95.0,94.0,85.0,94.0,152.0,91.0,91.0,67.0,85.0,111.0,82.0
+Digital,Regularly Research On The Internet,Clothes/Accessories,107.0,112.0,105.0,122.0,122.0,99.0,99.0,98.0,88.0,104.0,131.0,96.0,96.0,79.0,90.0,92.0,84.0
+Digital,Regularly Research On The Internet,Groceries,95.0,95.0,93.0,121.0,121.0,98.0,98.0,97.0,84.0,107.0,121.0,95.0,97.0,94.0,99.0,107.0,94.0
+Digital,Purchased On The Internet,Computer/Video Games,93.0,94.0,87.0,90.0,120.0,72.0,96.0,95.0,69.0,120.0,134.0,101.0,110.0,72.0,111.0,122.0,103.0
+Digital,Purchased On The Internet,Loans,93.0,91.0,91.0,128.0,135.0,94.0,96.0,96.0,62.0,97.0,143.0,107.0,100.0,67.0,104.0,107.0,103.0
+Digital,Purchased On The Internet,Savings/Investments,140.0,131.0,115.0,149.0,149.0,95.0,120.0,105.0,105.0,109.0,121.0,89.0,70.0,59.0,76.0,80.0,59.0
+Digital,Purchased On The Internet,Credit Cards,116.0,99.0,99.0,153.0,136.0,97.0,108.0,95.0,78.0,125.0,110.0,93.0,87.0,54.0,106.0,99.0,90.0
+Digital,Purchased On The Internet,Current Accounts,126.0,107.0,101.0,139.0,140.0,94.0,99.0,89.0,94.0,92.0,118.0,94.0,91.0,70.0,99.0,105.0,92.0
+Digital,Purchased On The Internet,Local Government Services,108.0,109.0,108.0,121.0,124.0,98.0,98.0,98.0,88.0,98.0,117.0,95.0,93.0,72.0,100.0,99.0,90.0
+Digital,Purchased On The Internet,"Household Utilities (E.G. Gas, Electricity)",127.0,114.0,112.0,122.0,120.0,98.0,104.0,100.0,95.0,110.0,94.0,98.0,90.0,74.0,97.0,90.0,77.0
+Digital,Purchased On The Internet,Musical Equipment,125.0,100.0,87.0,126.0,127.0,96.0,113.0,93.0,63.0,97.0,153.0,95.0,95.0,66.0,103.0,110.0,103.0
+Digital,Purchased On The Internet,Furniture,90.0,90.0,84.0,151.0,139.0,91.0,91.0,91.0,85.0,91.0,110.0,95.0,97.0,74.0,113.0,116.0,113.0
+Digital,Purchased On The Internet,Beer/Wine/Spirits,116.0,131.0,107.0,170.0,135.0,101.0,99.0,83.0,82.0,107.0,156.0,86.0,78.0,68.0,86.0,86.0,83.0
+Digital,Purchased On The Internet,Travel Tickets (Non Airline),136.0,122.0,112.0,179.0,149.0,89.0,106.0,98.0,82.0,100.0,144.0,81.0,75.0,56.0,93.0,87.0,76.0
+Digital,Purchased On The Internet,Toys,84.0,103.0,101.0,79.0,116.0,95.0,109.0,105.0,71.0,109.0,93.0,102.0,113.0,67.0,99.0,102.0,93.0
+Digital,Purchased On The Internet,Tickets For Events/Cinema/Theatre,131.0,131.0,106.0,167.0,139.0,86.0,108.0,102.0,66.0,116.0,135.0,86.0,86.0,60.0,87.0,83.0,64.0
+Digital,Purchased On The Internet,Sports Equipment,133.0,110.0,105.0,111.0,141.0,99.0,99.0,99.0,75.0,105.0,110.0,93.0,88.0,74.0,89.0,106.0,89.0
+Digital,Purchased On The Internet,Property,151.0,98.0,94.0,126.0,146.0,98.0,98.0,98.0,98.0,94.0,153.0,107.0,77.0,57.0,104.0,102.0,89.0
+Digital,Purchased On The Internet,Mobile Phones/Mobile Accessories,99.0,103.0,92.0,118.0,119.0,80.0,114.0,99.0,73.0,107.0,127.0,100.0,99.0,75.0,99.0,104.0,95.0
+Digital,Purchased On The Internet,Mortgages,105.0,100.0,89.0,152.0,152.0,86.0,99.0,110.0,69.0,99.0,128.0,97.0,81.0,69.0,99.0,112.0,80.0
+Digital,Purchased On The Internet,Home Insurance,118.0,118.0,118.0,88.0,121.0,105.0,113.0,116.0,108.0,111.0,73.0,110.0,89.0,69.0,85.0,77.0,67.0
+Digital,Purchased On The Internet,Car Insurance,123.0,127.0,123.0,73.0,112.0,113.0,115.0,114.0,105.0,113.0,75.0,102.0,87.0,67.0,82.0,78.0,71.0
+Digital,Purchased On The Internet,"Other Insurance (E.G. Life, Travel)",125.0,115.0,108.0,131.0,131.0,87.0,112.0,112.0,89.0,114.0,88.0,100.0,88.0,68.0,91.0,79.0,78.0
+Digital,Purchased On The Internet,Eating Out,106.0,116.0,98.0,162.0,143.0,87.0,94.0,93.0,76.0,112.0,154.0,86.0,89.0,62.0,84.0,98.0,95.0
+Digital,Purchased On The Internet,Days Out,102.0,116.0,103.0,131.0,135.0,91.0,108.0,99.0,71.0,107.0,126.0,104.0,96.0,63.0,88.0,90.0,78.0
+Digital,Purchased On The Internet,Household Electrical Products,131.0,104.0,97.0,114.0,121.0,101.0,111.0,99.0,99.0,104.0,108.0,90.0,102.0,78.0,97.0,96.0,91.0
+Digital,Purchased On The Internet,Videos/Dvds/Mp4,117.0,103.0,97.0,104.0,118.0,93.0,107.0,99.0,82.0,111.0,103.0,93.0,98.0,73.0,106.0,103.0,103.0
+Digital,Purchased On The Internet,Computer Software/Programmes/Hardware,99.0,104.0,98.0,124.0,122.0,95.0,114.0,99.0,78.0,102.0,131.0,96.0,91.0,68.0,99.0,102.0,96.0
+Digital,Purchased On The Internet,"Music (E.G. Cds, Mp3S)",129.0,110.0,102.0,127.0,128.0,95.0,107.0,99.0,86.0,116.0,119.0,88.0,97.0,63.0,94.0,94.0,89.0
+Digital,Purchased On The Internet,Vehicles,100.0,99.0,97.0,118.0,123.0,88.0,99.0,99.0,93.0,108.0,134.0,98.0,98.0,69.0,99.0,108.0,99.0
+Digital,Purchased On The Internet,Books,140.0,121.0,114.0,135.0,125.0,102.0,102.0,100.0,78.0,108.0,113.0,86.0,87.0,67.0,96.0,89.0,81.0
+Digital,Purchased On The Internet,"Consumer Electronics (E.G. Tvs, Stereos)",121.0,105.0,94.0,107.0,124.0,88.0,99.0,99.0,99.0,104.0,132.0,99.0,99.0,72.0,99.0,99.0,96.0
+Digital,Purchased On The Internet,Hotel Reservations,133.0,130.0,120.0,143.0,135.0,96.0,109.0,103.0,92.0,101.0,110.0,84.0,81.0,67.0,89.0,82.0,68.0
+Digital,Purchased On The Internet,Airline Tickets,157.0,124.0,98.0,209.0,149.0,87.0,112.0,98.0,79.0,101.0,142.0,80.0,78.0,59.0,84.0,89.0,70.0
+Digital,Purchased On The Internet,Sports And Leisurewear/Trainers,107.0,101.0,96.0,127.0,129.0,94.0,98.0,98.0,71.0,109.0,113.0,102.0,97.0,74.0,98.0,99.0,99.0
+Digital,Purchased On The Internet,Personal Electronic Products (E.G. Electric Razors),102.0,107.0,98.0,129.0,132.0,97.0,108.0,85.0,75.0,107.0,127.0,92.0,96.0,70.0,96.0,107.0,94.0
+Digital,Purchased On The Internet,"Domestic Appliances (E.G. Fridge, Washing Machine)",103.0,102.0,102.0,103.0,105.0,100.0,107.0,97.0,97.0,104.0,107.0,101.0,103.0,71.0,103.0,105.0,94.0
+Digital,Purchased On The Internet,"Personal Grooming Products ( E.G. Skin Care, Fragrances, Etc.)",126.0,109.0,95.0,162.0,132.0,89.0,101.0,95.0,74.0,95.0,142.0,93.0,93.0,68.0,90.0,107.0,88.0
+Digital,Purchased On The Internet,Clothes/Accessories,115.0,110.0,107.0,123.0,123.0,98.0,98.0,98.0,90.0,99.0,129.0,95.0,95.0,71.0,94.0,97.0,86.0
+Digital,Purchased On The Internet,Groceries,91.0,99.0,99.0,132.0,132.0,97.0,97.0,95.0,74.0,103.0,138.0,91.0,95.0,86.0,97.0,102.0,92.0
+Digital,Purchased On The Internet,None Of These,117.0,115.0,104.0,119.0,108.0,104.0,105.0,107.0,93.0,104.0,94.0,95.0,90.0,71.0,100.0,94.0,92.0
+Digital,Sites Regularly Visited,Amazon.Co.Uk,109.0,109.0,105.0,112.0,114.0,104.0,105.0,104.0,89.0,112.0,107.0,92.0,94.0,81.0,96.0,94.0,85.0
+Digital,Sites Regularly Visited,Apple,84.0,120.0,105.0,117.0,139.0,95.0,93.0,90.0,88.0,98.0,156.0,88.0,87.0,57.0,86.0,113.0,98.0
+Digital,Sites Regularly Visited,Auto Trader,108.0,129.0,100.0,51.0,117.0,118.0,121.0,96.0,81.0,111.0,115.0,100.0,111.0,63.0,84.0,80.0,84.0
+Digital,Sites Regularly Visited,Bbc.Co.Uk,117.0,126.0,113.0,147.0,139.0,102.0,108.0,97.0,69.0,132.0,104.0,90.0,79.0,65.0,88.0,80.0,68.0
+Digital,Sites Regularly Visited,Blinkbox,131.0,93.0,83.0,119.0,119.0,102.0,108.0,102.0,102.0,102.0,111.0,102.0,110.0,41.0,102.0,98.0,123.0
+Digital,Sites Regularly Visited,Boots.Com,76.0,113.0,81.0,145.0,136.0,101.0,101.0,105.0,67.0,115.0,97.0,97.0,97.0,84.0,81.0,93.0,91.0
+Digital,Sites Regularly Visited,Comparethemarket.Com,94.0,107.0,104.0,79.0,105.0,87.0,101.0,116.0,93.0,112.0,65.0,112.0,100.0,103.0,94.0,84.0,91.0
+Digital,Sites Regularly Visited,Confused.Com,101.0,117.0,94.0,81.0,100.0,104.0,108.0,114.0,108.0,123.0,59.0,108.0,96.0,71.0,72.0,100.0,112.0
+Digital,Sites Regularly Visited,Digitalspy,88.0,98.0,98.0,84.0,93.0,100.0,98.0,106.0,63.0,98.0,98.0,110.0,98.0,90.0,106.0,106.0,121.0
+Digital,Sites Regularly Visited,Direct.Gov.Uk,104.0,107.0,104.0,99.0,99.0,103.0,104.0,91.0,96.0,110.0,92.0,104.0,107.0,84.0,98.0,98.0,95.0
+Digital,Sites Regularly Visited,Ebay,71.0,98.0,98.0,90.0,98.0,109.0,101.0,103.0,102.0,107.0,96.0,99.0,96.0,90.0,109.0,108.0,94.0
+Digital,Sites Regularly Visited,Gocompare.Com,74.0,119.0,111.0,99.0,102.0,81.0,99.0,111.0,99.0,99.0,65.0,117.0,109.0,67.0,95.0,93.0,84.0
+Digital,Sites Regularly Visited,Google.Co.Uk,97.0,112.0,103.0,121.0,121.0,102.0,106.0,100.0,79.0,120.0,110.0,93.0,88.0,70.0,102.0,96.0,84.0
+Digital,Sites Regularly Visited,Groupon,103.0,103.0,111.0,89.0,123.0,89.0,101.0,95.0,98.0,107.0,99.0,100.0,97.0,89.0,97.0,97.0,95.0
+Digital,Sites Regularly Visited,Gumtree.Com,84.0,84.0,77.0,120.0,120.0,103.0,96.0,88.0,94.0,96.0,133.0,96.0,109.0,94.0,111.0,111.0,111.0
+Digital,Sites Regularly Visited,Huffington Post,103.0,110.0,97.0,100.0,102.0,106.0,98.0,97.0,52.0,110.0,121.0,96.0,109.0,77.0,105.0,101.0,101.0
+Digital,Sites Regularly Visited,Internet Movie Database (Imdb),97.0,102.0,82.0,137.0,127.0,91.0,92.0,94.0,66.0,129.0,150.0,97.0,93.0,81.0,107.0,99.0,94.0
+Digital,Sites Regularly Visited,Itunes,108.0,119.0,102.0,108.0,120.0,91.0,106.0,99.0,98.0,107.0,154.0,96.0,100.0,58.0,90.0,83.0,96.0
+Digital,Sites Regularly Visited,Lovefilm,100.0,100.0,100.0,181.0,155.0,103.0,90.0,101.0,101.0,122.0,87.0,87.0,87.0,85.0,90.0,70.0,95.0
+Digital,Sites Regularly Visited,Microsoft,80.0,104.0,111.0,78.0,82.0,97.0,99.0,97.0,76.0,97.0,99.0,99.0,99.0,99.0,107.0,111.0,117.0
+Digital,Sites Regularly Visited,Moneysavingexpert.Com,148.0,123.0,118.0,130.0,126.0,118.0,105.0,97.0,86.0,121.0,87.0,96.0,90.0,64.0,86.0,72.0,74.0
+Digital,Sites Regularly Visited,Moneysupermarket.Com,122.0,122.0,123.0,109.0,126.0,109.0,104.0,114.0,108.0,116.0,78.0,87.0,89.0,67.0,88.0,75.0,65.0
+Digital,Sites Regularly Visited,Mumsnet,80.0,144.0,104.0,100.0,116.0,101.0,104.0,101.0,97.0,103.0,85.0,92.0,96.0,46.0,99.0,102.0,80.0
+Digital,Sites Regularly Visited,Myvouchercodes,115.0,127.0,113.0,99.0,101.0,91.0,114.0,96.0,80.0,111.0,99.0,99.0,100.0,88.0,96.0,90.0,66.0
+Digital,Sites Regularly Visited,National Lottery,65.0,100.0,104.0,81.0,95.0,111.0,108.0,106.0,98.0,124.0,60.0,94.0,105.0,94.0,99.0,92.0,106.0
+Digital,Sites Regularly Visited,Nhs Direct,89.0,98.0,98.0,109.0,112.0,98.0,98.0,98.0,68.0,121.0,98.0,98.0,109.0,98.0,97.0,97.0,91.0
+Digital,Sites Regularly Visited,Outlook.Com (Previously Hotmail),112.0,100.0,100.0,132.0,125.0,95.0,95.0,95.0,73.0,104.0,123.0,100.0,100.0,79.0,100.0,106.0,85.0
+Digital,Sites Regularly Visited,Spotify,110.0,106.0,102.0,149.0,104.0,96.0,98.0,94.0,84.0,131.0,137.0,103.0,78.0,76.0,103.0,98.0,88.0
+Digital,Sites Regularly Visited,Tripadvisor,128.0,143.0,118.0,137.0,137.0,100.0,104.0,106.0,83.0,95.0,83.0,84.0,83.0,73.0,96.0,74.0,61.0
+Digital,Sites Regularly Visited,Wikipedia,98.0,110.0,88.0,154.0,135.0,94.0,99.0,95.0,78.0,114.0,159.0,89.0,82.0,68.0,104.0,95.0,96.0
+Digital,Sites Regularly Visited,Yahoo.Co.Uk,65.0,96.0,99.0,99.0,105.0,99.0,83.0,99.0,107.0,110.0,96.0,100.0,96.0,89.0,115.0,108.0,108.0
+Digital,Sites Regularly Visited,Youtube,76.0,100.0,99.0,137.0,120.0,88.0,95.0,94.0,82.0,112.0,137.0,97.0,98.0,73.0,111.0,101.0,92.0
+Shopping,Preferred Supermarket,Morrisons,86.0,96.0,102.0,74.0,84.0,113.0,101.0,105.0,112.0,98.0,84.0,111.0,100.0,105.0,106.0,96.0,97.0
+Shopping,Preferred Supermarket,Sainsburys,145.0,128.0,116.0,168.0,134.0,94.0,112.0,108.0,98.0,115.0,137.0,84.0,83.0,68.0,84.0,91.0,73.0
+Shopping,Preferred Supermarket,Tesco,105.0,106.0,100.0,116.0,113.0,104.0,102.0,101.0,90.0,101.0,116.0,98.0,97.0,87.0,96.0,102.0,91.0
+Shopping,Food Shopping,Budget Ranges,79.0,77.0,79.0,93.0,96.0,97.0,93.0,97.0,91.0,109.0,110.0,109.0,109.0,109.0,114.0,114.0,114.0
+Shopping,Food Shopping,Healthy Option Ranges,120.0,109.0,108.0,94.0,101.0,105.0,105.0,105.0,114.0,106.0,87.0,98.0,98.0,98.0,89.0,89.0,88.0
+Shopping,Clothing & Footwear Stores,Mass Market,118.0,121.0,117.0,108.0,113.0,101.0,110.0,107.0,106.0,106.0,104.0,90.0,90.0,79.0,87.0,86.0,79.0
+Shopping,Clothing & Footwear Stores,Value,62.0,86.0,89.0,76.0,94.0,91.0,98.0,101.0,95.0,98.0,105.0,107.0,110.0,105.0,108.0,110.0,114.0
+Shopping,Furniture & Fittings Stores,Mass Market,104.0,123.0,119.0,88.0,116.0,105.0,111.0,111.0,107.0,107.0,80.0,93.0,92.0,81.0,80.0,83.0,83.0
+Shopping,Furniture & Fittings Stores,Value,73.0,90.0,90.0,81.0,93.0,92.0,100.0,100.0,100.0,100.0,73.0,102.0,109.0,100.0,104.0,117.0,119.0
+Shopping,Electrical Stores,Mass Market,112.0,112.0,115.0,101.0,109.0,105.0,118.0,105.0,105.0,100.0,86.0,96.0,96.0,94.0,83.0,83.0,83.0
+Shopping,Attitudes,I Am Prepared To Pay More For Products That Make Life Easier,125.0,121.0,111.0,129.0,119.0,100.0,102.0,100.0,100.0,103.0,106.0,90.0,87.0,82.0,94.0,90.0,85.0
+Shopping,Attitudes,It'S Worth Paying Extra For Quality Goods,131.0,118.0,112.0,111.0,111.0,107.0,104.0,102.0,106.0,104.0,94.0,96.0,91.0,87.0,90.0,86.0,84.0
+Shopping,Attitudes,I Buy Goods Produced In My Own Country Whenever I Can,112.0,110.0,117.0,94.0,94.0,123.0,104.0,101.0,120.0,95.0,83.0,98.0,93.0,99.0,88.0,86.0,88.0
+Shopping,Attitudes,I Like To Pay Cash For Everything I Buy,83.0,82.0,96.0,83.0,84.0,96.0,96.0,94.0,112.0,87.0,77.0,110.0,111.0,121.0,106.0,108.0,115.0
+Shopping,Attitudes,I Decide What I Want Before I Do The Weekly Shopping,100.0,106.0,105.0,100.0,100.0,103.0,103.0,102.0,103.0,102.0,98.0,98.0,97.0,98.0,95.0,95.0,93.0
+Shopping,Attitudes,I Prefer Not To Shop In Major High Street Chains,94.0,89.0,94.0,134.0,109.0,98.0,96.0,91.0,92.0,96.0,111.0,100.0,100.0,100.0,112.0,106.0,105.0
+Shopping,Attitudes,Shopping Online Makes My Life Easier,105.0,112.0,100.0,124.0,124.0,101.0,101.0,101.0,86.0,112.0,111.0,93.0,90.0,81.0,101.0,96.0,87.0
+Shopping,Attitudes,I Look For The Lowest Possible Prices When I Go Shopping,84.0,91.0,90.0,102.0,102.0,95.0,94.0,99.0,94.0,105.0,118.0,102.0,102.0,101.0,111.0,105.0,105.0
+Shopping,Attitudes,Shopping For Groceries Is A Bore,101.0,101.0,103.0,96.0,96.0,106.0,103.0,108.0,98.0,103.0,95.0,100.0,102.0,100.0,95.0,95.0,91.0
+Shopping,Attitudes,I Only Shop At Supermarkets That Sell Good Quality Fresh Food,118.0,113.0,110.0,103.0,103.0,103.0,102.0,102.0,111.0,101.0,85.0,97.0,92.0,94.0,96.0,91.0,92.0
+Shopping,Attitudes,I Check A Number Of Sources Before Making A Significant Purchase,123.0,120.0,111.0,113.0,113.0,104.0,103.0,103.0,102.0,107.0,104.0,92.0,87.0,84.0,97.0,86.0,84.0
+Environment,Action,Rarely Leave Tv Or Pc On Standby For Long Periods Of Time At Home,102.0,100.0,107.0,88.0,92.0,107.0,102.0,104.0,109.0,104.0,78.0,102.0,100.0,100.0,96.0,96.0,96.0
+Environment,Action,Rarely Keep The Tap Running While Brushing Teeth,111.0,113.0,110.0,107.0,110.0,107.0,104.0,101.0,104.0,108.0,96.0,93.0,93.0,90.0,91.0,90.0,87.0
+Environment,Action,Rarely Leave The Heating On When Out For A Few Hours,82.0,90.0,94.0,104.0,105.0,99.0,99.0,100.0,99.0,101.0,104.0,100.0,100.0,99.0,106.0,106.0,106.0
+Environment,Action,Decide Not To Buy Something Because It Has Too Much Packaging,106.0,99.0,96.0,135.0,106.0,120.0,99.0,94.0,89.0,99.0,108.0,99.0,96.0,99.0,97.0,99.0,99.0
+Environment,Action,Take Own Shopping Bag When Shopping,112.0,112.0,112.0,100.0,100.0,114.0,105.0,106.0,115.0,103.0,89.0,97.0,97.0,97.0,88.0,79.0,84.0
+Environment,Action,"Re-Use Items Like Empty Bottles, Tubs, Jars, Envelopes Or Paper",114.0,112.0,111.0,101.0,100.0,117.0,107.0,104.0,108.0,105.0,95.0,95.0,94.0,95.0,87.0,87.0,83.0
+Environment,Action,Rarely Leave The Mobile Phone Charger In The Socket When Not In Use,109.0,109.0,112.0,80.0,95.0,111.0,105.0,105.0,124.0,97.0,73.0,99.0,99.0,102.0,89.0,88.0,89.0
+Environment,Action,Recycle Items Rather Than Throwing Them Away,109.0,109.0,109.0,95.0,98.0,109.0,106.0,106.0,106.0,104.0,82.0,98.0,101.0,98.0,90.0,88.0,83.0
+Environment,Action,Make An Effort To Cut Down On The Use Of Gas/Electricity At Home,100.0,104.0,104.0,100.0,100.0,105.0,103.0,103.0,109.0,101.0,85.0,99.0,100.0,99.0,94.0,94.0,93.0
+Environment,Action,Make An Effort To Cut Down On Water Usage At Home,104.0,108.0,107.0,96.0,100.0,111.0,105.0,102.0,111.0,102.0,82.0,97.0,98.0,97.0,91.0,93.0,92.0
+Environment,Attitude,There Is Too Much Concern With The Environment: Agree,94.0,92.0,94.0,97.0,95.0,100.0,104.0,100.0,102.0,100.0,100.0,103.0,100.0,105.0,104.0,104.0,104.0
+Community Safety,Crime Survey For England,Too Lenient Sentencing,75.0,102.0,100.0,57.0,80.0,110.0,109.0,114.0,117.0,100.0,51.0,106.0,112.0,114.0,95.0,81.0,101.0
+Community Safety,Crime Survey For England,Poverty,110.0,106.0,100.0,138.0,110.0,100.0,102.0,91.0,89.0,108.0,111.0,93.0,100.0,92.0,93.0,96.0,84.0
+Community Safety,Crime Survey For England,Lack Of Discipline From School,89.0,96.0,103.0,73.0,90.0,112.0,99.0,102.0,123.0,102.0,61.0,105.0,107.0,118.0,98.0,88.0,102.0
+Community Safety,Crime Survey For England,Lack Of Discipline From Parents,107.0,108.0,110.0,90.0,92.0,107.0,102.0,107.0,114.0,102.0,76.0,94.0,101.0,105.0,93.0,82.0,84.0
+Community Safety,Crime Survey For England,Drugs,100.0,104.0,100.0,81.0,94.0,99.0,97.0,100.0,103.0,104.0,89.0,102.0,106.0,104.0,97.0,100.0,101.0
+Community Safety,Crime Survey For England,Alcohol,100.0,100.0,96.0,82.0,104.0,101.0,98.0,94.0,95.0,98.0,108.0,103.0,108.0,111.0,106.0,95.0,108.0
+Community Safety,Crime Survey For England,Unemployment,104.0,95.0,91.0,104.0,96.0,97.0,102.0,104.0,93.0,102.0,100.0,110.0,106.0,102.0,96.0,104.0,98.0
+Community Safety,Crime Survey For England,The Police In This Area Can Be Relied On To Be There When You Need Them,105.0,98.0,98.0,112.0,109.0,91.0,101.0,100.0,95.0,103.0,119.0,97.0,95.0,103.0,100.0,100.0,98.0
+Community Safety,Crime Survey For England,The Police In This Area Would Treat You With Respect If You Had Contact With Them,103.0,103.0,103.0,100.0,99.0,102.0,101.0,101.0,103.0,100.0,100.0,99.0,98.0,101.0,97.0,95.0,95.0
+Community Safety,Crime Survey For England,The Police In This Area Treat Everyone Fairly Regardless Of Who They Are,98.0,101.0,104.0,86.0,98.0,104.0,104.0,102.0,101.0,98.0,102.0,104.0,100.0,101.0,97.0,94.0,94.0
+Community Safety,Crime Survey For England,The Police In This Area Understand The Issues That Affect This Community,103.0,103.0,104.0,98.0,100.0,104.0,103.0,99.0,101.0,99.0,99.0,101.0,98.0,99.0,96.0,95.0,93.0
+Community Safety,Crime Survey For England,The Police In This Area Are Dealing With The Things That Matter To This Community,102.0,101.0,104.0,100.0,102.0,100.0,103.0,98.0,106.0,98.0,102.0,100.0,98.0,102.0,94.0,96.0,95.0
+Community Safety,Crime Survey For England,Taking Everything Into Account I Have Confidence In The Police In This Area,105.0,105.0,105.0,106.0,104.0,99.0,102.0,100.0,102.0,102.0,104.0,97.0,96.0,98.0,94.0,92.0,90.0
+Leisure Time,Magazines Read,Women'S,101.0,112.0,95.0,90.0,90.0,101.0,101.0,101.0,139.0,101.0,77.0,101.0,101.0,101.0,101.0,101.0,80.0
+Leisure Time,Books Read,Science Fiction/Fantasy,94.0,94.0,80.0,152.0,147.0,68.0,112.0,103.0,103.0,108.0,103.0,103.0,103.0,87.0,103.0,103.0,81.0
+Leisure Time,Interests & Hobbies,Cookery,100.0,104.0,100.0,88.0,88.0,108.0,100.0,100.0,100.0,105.0,76.0,86.0,106.0,125.0,100.0,103.0,100.0
+Leisure Time,Interests & Hobbies,Reading Books,107.0,107.0,107.0,85.0,68.0,104.0,104.0,104.0,130.0,104.0,103.0,76.0,111.0,121.0,97.0,100.0,86.0
+Leisure Time,Interests & Hobbies,Records / Tapes / Cds,99.0,103.0,99.0,88.0,88.0,106.0,102.0,102.0,120.0,102.0,74.0,99.0,99.0,105.0,99.0,99.0,99.0
+Leisure Time,Visit Pubs For A Drink - Evening,Value,85.0,94.0,94.0,133.0,131.0,61.0,91.0,103.0,65.0,122.0,186.0,99.0,99.0,76.0,119.0,90.0,99.0
+Leisure Time,Visit Pubs For A Meal - Day,Value,64.0,97.0,96.0,93.0,95.0,100.0,99.0,100.0,100.0,100.0,123.0,101.0,100.0,93.0,120.0,95.0,104.0
+Leisure Time,Visit Pubs For A Meal - Evening,Value,97.0,100.0,100.0,111.0,111.0,81.0,100.0,113.0,72.0,111.0,165.0,99.0,99.0,70.0,116.0,84.0,100.0
+Leisure Time,Holiday Destination/Type,Uk / Ireland,116.0,117.0,116.0,101.0,101.0,119.0,110.0,109.0,113.0,110.0,77.0,90.0,87.0,93.0,72.0,69.0,72.0
+Leisure Time,Holiday Destination/Type,Spain / Mediterranean,103.0,103.0,103.0,103.0,103.0,80.0,98.0,98.0,78.0,98.0,179.0,101.0,103.0,82.0,103.0,103.0,103.0

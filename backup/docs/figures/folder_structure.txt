@@ -1,0 +1,64 @@
+.
+├── README.md
+├── artifacts
+│   ├── logs
+│   ├── metrics
+│   └── models
+├── docs
+│   ├── Phase 1
+│   │   ├── phase_1_guide.md
+│   │   └── phase_1_results.md
+│   ├── Phase 2
+│   │   ├── phase_2_guide.md
+│   │   ├── phase_2_results.ipynb
+│   │   └── temp
+│   │       └── temp_files.txt
+│   ├── Phase 3
+│   │   ├── phase_3_guide.md
+│   │   ├── phase_3_results.ipynb
+│   │   └── temp
+│   │       └── temp_files.txt
+│   ├── Phase 4
+│   │   ├── phase_4_guide.md
+│   │   ├── phase_4_results.ipynb
+│   │   └── temp
+│   │       └── temp_files.txt
+│   ├── Phase 5
+│   │   ├── phase_5_guide.md
+│   │   ├── phase_5_results.ipynb
+│   │   └── temp
+│   │       └── temp_files.txt
+│   ├── Phase 6
+│   │   ├── phase_6_guide.md
+│   │   └── phase_6_results.md
+│   ├── Phase 7 Final report
+│   │   ├── final_report.md
+│   │   └── final_report_guide.md
+│   ├── folder_structure.txt
+│   └── reports
+│       ├── figures
+│       └── final_report.md
+├── environment.yml
+├── mlruns
+├── models
+│   ├── model_v1.pkl
+│   └── model_v2.pkl
+├── notebooks
+│   ├── eda.ipynb
+│   ├── fe.ipynb
+│   ├── model.ipynb
+│   └── result.ipynb
+├── project_steps_commands.txt
+├── project_structure.txt
+├── requirements.txt
+├── src
+│   ├── models
+│   │   ├── evaluate.py
+│   │   └── train.py
+│   ├── pipelines
+│   │   └── pipeline.py
+│   └── utils
+│       └── config.py
+└── tests
+
+27 directories, 35 files

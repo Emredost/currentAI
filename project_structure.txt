@@ -1,0 +1,96 @@
+.
+├── README.md
+├── artifacts
+│   ├── data
+│   ├── logs
+│   ├── metrics
+│   └── models
+├── backup
+├── data
+│   ├── external
+│   ├── processed
+│   │   ├── cleaned_daily_dataset.csv
+│   │   └── household_info_processed.csv
+│   └── raw
+│       ├── acorn_details.csv
+│       ├── daily_dataset
+│       │   └── daily_dataset
+│       ├── daily_dataset.csv
+│       ├── darksky_parameters_documentation.html
+│       ├── halfhourly_dataset
+│       │   └── halfhourly_dataset
+│       ├── hhblock_dataset
+│       │   └── hhblock_dataset
+│       ├── informations_households.csv
+│       ├── uk_bank_holidays.csv
+│       ├── weather_daily_darksky.csv
+│       └── weather_hourly_darksky.csv
+├── docs
+│   ├── Phase 1
+│   │   ├── phase_1_guide.md
+│   │   └── phase_1_results.md
+│   ├── Phase 2
+│   │   ├── phase_2_guide.md
+│   │   ├── phase_2_results.ipynb
+│   │   └── temp
+│   │       └── temp_files.txt
+│   ├── Phase 3
+│   │   ├── phase_3_guide.md
+│   │   ├── phase_3_results.ipynb
+│   │   └── temp
+│   │       └── temp_files.txt
+│   ├── Phase 4
+│   │   ├── phase_4_guide.md
+│   │   ├── phase_4_results.ipynb
+│   │   └── temp
+│   │       └── temp_files.txt
+│   ├── Phase 5
+│   │   ├── phase_5_guide.md
+│   │   ├── phase_5_results.ipynb
+│   │   └── temp
+│   │       └── temp_files.txt
+│   ├── Phase 6
+│   │   ├── phase_6_guide.md
+│   │   └── phase_6_results.md
+│   ├── Phase 7 Final report
+│   │   ├── final_report.md
+│   │   └── final_report_guide.md
+│   └── figures
+│       └── folder_structure.txt
+├── environment.yml
+├── main.py
+├── mlruns
+├── models
+│   ├── model_v1.pkl
+│   └── model_v2.pkl
+├── notebooks
+│   ├── eda_1.ipynb
+│   ├── feature_1.ipynb
+│   ├── model_1.ipynb
+│   ├── preprocess_1.ipynb
+│   └── result_1.ipynb
+├── project_steps_commands.txt
+├── project_structure.txt
+├── requirements.txt
+├── src
+│   ├── analysis
+│   │   ├── eda.py
+│   │   └── visualization.py
+│   ├── data
+│   │   ├── __pycache__
+│   │   │   └── data_loader.cpython-39.pyc
+│   │   ├── load_data.py
+│   │   └── preprocess.py
+│   ├── download_data.py
+│   ├── models
+│   │   ├── evaluate.py
+│   │   └── train.py
+│   ├── pipelines
+│   │   └── pipeline.py
+│   └── utils
+│       ├── config.py
+│       ├── dataset_utils.py
+│       └── helpers.py
+└── tests
+
+41 directories, 53 files

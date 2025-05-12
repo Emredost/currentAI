@@ -1,0 +1,34 @@
+#1- Setting up the environmental Variable
+conda create -n my_project_env python=3.9 -y
+conda activate my_project_env
+conda env export > environment.yml
+#2- requirements.txt updated
+pip install -r requirements.txt
+#3- getting started with git
+git init(inside the project folder)
+git clone <URL>
+git config --global user.name "Your Name"
+git config --global user.email "your_email@example.com"
+git remote add origin <url>
+git remote add upstream <url>
+git add .
+git commit -m "comment"
+git push origin main
+#4- getting started with dvc
+pip install dvc
+dvc --version
+dvc init
+dvc add data/raw
+git add data/.gitignore data/raw.dvc
+git commit -m "Track raw dataset with DVC"
+dvc config core.autostage true
+#4 Kaggle API
+pip install kaggle 
+~/.kaggle/kaggle.json
+kaggle datasets download -d jeanmidev/smart-meters-in-london
+unzip smart-meters-in-london.zip -d data/raw
+#5 Dataset automated download for team
+python src/data/download_data.py
+dvc remote add -d onedrive_remote gdrive://<your_folder_id>
+dvc push
+dvc pull

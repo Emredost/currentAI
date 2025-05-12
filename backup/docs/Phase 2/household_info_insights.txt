@@ -1,0 +1,35 @@
+Frequency distribution for stdorToU:
+stdorToU
+STD    4443
+TOU    1123
+
+Frequency distribution for Acorn:
+Acorn
+ACORN-E    1567
+ACORN-Q     831
+ACORN-F     684
+ACORN-H     455
+ACORN-L     342
+ACORN-D     292
+ACORN-G     205
+ACORN-K     165
+ACORN-A     157
+ACORN-N     152
+ACORN-C     151
+ACORN-M     113
+ACORN-J     112
+ACORN-P     110
+ACORN-O     103
+ACORN-I      51
+ACORN-U      49
+ACORN-B      25
+ACORN-        2
+
+Frequency distribution for Acorn_grouped:
+Acorn_grouped
+High Income      2192
+Low Income       1816
+Middle Income    1507
+ACORN-U            49
+ACORN-              2
+

@@ -1,0 +1,23 @@
+stages:
+  preprocess_data:
+    cmd: python -c "from src.pipelines.pipeline import SmartMeterPipeline; pipeline = SmartMeterPipeline(); pipeline.create_analysis_dataset()"
+    deps:
+      - src/pipelines/pipeline.py
+      - src/data/load_data.py
+      - src/data/preprocess.py
+      - src/utils/config.py
+      - data/raw
+    outs:
+      - data/processed/analysis_dataset.csv
+      - data/processed/cleaned_halfhourly_data.csv
+      - data/processed/cleaned_weather_hourly.csv
+      - data/processed/household_info_processed.csv
+  
+  train_models:
+    cmd: python -c "from src.models.train import train_electricity_forecast_models; import pandas as pd; from src.data.load_data import load_processed_data; data = load_processed_data('hourly'); train_electricity_forecast_models(data)"
+    deps:
+      - src/models/train.py
+      - data/processed/cleaned_halfhourly_data.csv
+      - data/processed/cleaned_weather_hourly.csv
+    outs:
+      - models 

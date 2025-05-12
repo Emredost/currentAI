@@ -10,6 +10,7 @@ This directory contains documentation for the Smart Meters in London Data Scienc
 - **api_reference.md**: API reference for key modules and classes
 - **data_dictionary.md**: Comprehensive description of all datasets and their fields
 - **model_architecture.md**: Detailed explanation of model architectures and training procedures
+- **bill_processor.md**: Guide for using the bill upload and processing functionality
 
 ## Documentation Structure
 
@@ -22,6 +23,12 @@ The `app_usage_guide.md` file provides detailed instructions for end users on:
 - Using the interactive dashboards
 - Exploring data visualizations
 - Generating forecasts
+
+The `bill_processor.md` file provides instructions specifically for:
+- Manual entry of electricity consumption data
+- Uploading and processing of electricity bills via OCR
+- Understanding the forecast results and insights
+- Troubleshooting common issues with bill processing
 
 ### 2. Developer Documentation
 

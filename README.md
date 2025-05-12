@@ -13,6 +13,7 @@ This project analyzes household electricity consumption in London using smart me
 - **Weather Impact Analysis**: Assess how weather conditions affect electricity usage
 - **Machine Learning Models**: LSTM, GRU, CNN, and Random Forest models for consumption forecasting
 - **Interactive Dashboard**: Streamlit web application for data exploration and model visualization
+- **Bill Processor**: Upload electricity bills or manually enter data to get personalized forecasts and insights
 
 ## Project Structure
 
@@ -38,7 +39,8 @@ This project analyzes household electricity consumption in London using smart me
 │   ├── README.md               # Documentation overview
 │   ├── app_usage_guide.md      # User guide for the web application
 │   ├── developer_guide.md      # Guide for developers
-│   └── api_reference.md        # API reference for key modules
+│   ├── api_reference.md        # API reference for key modules
+│   └── bill_processor.md       # Guide for using the bill upload and processing functionality
 └── tests/                      # Unit tests
 ```
 
@@ -108,6 +110,7 @@ The dashboard will be available at http://localhost:8501 and includes:
 - Weather impact analysis
 - Consumption pattern insights
 - Interactive forecasting
+- Bill processing with OCR capability for extracting consumption data
 
 ## Model Performance
 
@@ -128,6 +131,7 @@ Detailed documentation is available in the `docs/` directory:
 - `docs/app_usage_guide.md`: Guide for using the web application
 - `docs/developer_guide.md`: Guide for developers contributing to the project
 - `docs/api_reference.md`: API reference for key modules and classes
+- `docs/bill_processor.md`: Guide for using the bill upload and processing functionality
 
 ## Contributing
 
